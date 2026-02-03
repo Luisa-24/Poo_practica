@@ -1,0 +1,582 @@
+Name,Gender,Nationality,Department,Position,Age,Birthdate,Email,Phone,Address,Hire Date,Contract Type,Employee ID,Salary,Termination Date
+Jason Guzman,Female,Mexican,Sales,Senior Salesperson,34,4/13/1991,sarah96@example.com,8724436621,"798 Lopez Loaf
+Lake Johnside, NE 40143",8/26/2009,Temporary,EMP1000,63313.34,
+Sharon Bass,Male,Mexican,Cashier,Lead Cashier,53,7/29/1972,annabutler@example.com,(754)497-9452x7650,"76684 Jessica Passage Suite 829
+Ramseyton, DE 40313",6/9/1992,Full-time,EMP1001,34435.31,
+Mia James,Male,German,Inventory,Warehouse Assistant,26,11/3/1999,shahjames@example.com,(918)457-6175x025,"9619 Robert Prairie Apt. 798
+Simmonsmouth, IL 59719",11/1/1991,Part-time,EMP1002,47713.44,
+Edward Campbell,Female,Indian,Inventory,Warehouse Assistant,57,7/21/1968,annette22@example.net,+1-885-275-0669x301,"52080 Valencia Junction Suite 464
+Michaelborough, KS 54934",8/5/1970,Part-time,EMP1003,42573.45,4/26/1974
+Jonathan Gilbert,Other,Indian,Customer Service,Support Agent,21,5/10/2004,idennis@example.net,6706342666,"Unit 0576 Box 6343
+DPO AA 59396",6/4/1992,Full-time,EMP1004,46463.75,10/4/1998
+Angela Wright,Female,Mexican,Customer Service,Support Agent,47,1/11/1978,osbornecorey@example.net,259-271-5812,"2547 Andrea View Apt. 556
+East Scottshire, VT 61872",8/24/1993,Temporary,EMP1005,61523.19,10/13/1999
+Tina Pacheco,Other,German,Customer Service,Customer Service Rep,62,12/17/1963,invalid_email.com,+1-895-252-3371x2111,"05162 Chandler Square
+East Williamhaven, IN 70277",12/30/1975,      ,EMP1006,54863.37,6/22/1983
+Destiny Gould,Male,British,Inventory,Stock Clerk,45,3/16/1980,matthewharris@example.org,926.977.8603,"05523 Duarte Islands
+Phillipsberg, WV 33284",5/22/1987,Temporary,EMP1007,65975.72,
+Kimberly Torres MD,Other,German,Cashier,Lead Cashier,35,12/8/1990,joshua01@example.net,,,12/28/1986,Temporary,EMP1008,54470.78,1/31/1988
+Edward Roy,Other,American,Management,Store Manager,29,10/6/1996,dunnsarah@example.org,,"Unit 1679 Box 7951
+DPO AP 55688",11/15/2003,Temporary,EMP1009,63434.96,4/23/2008
+Luke Smith,Other,American,Sales,Sales Associate,52,8/11/1973,patrick58@example.org,-5993501,"315 Robinson Inlet
+South Thomas, MT 03594",5/5/1979,Part-time,EMP1010,39076.12,
+Alicia Taylor,Other,American,Management,Assistant Manager,38,1/7/1987,xbanks@example.net,-2643,"764 Paula Hill Apt. 369
+New Alec, ME 30695",1/31/2014,Part-time,EMP1011,52606.51,11/8/2022
+Alexander Duncan,Other,Indian,Customer Service,Support Agent,20,10/14/2005,craigfletcher@example.org,001-568-958-4062x37086,"87424 Stephens Via
+Andersonhaven, MH 32059",9/4/2029,Temporary,EMP1012,27125.81,
+Andrew Thornton,Other,American,Inventory,Warehouse Assistant,61,1/18/1964,morgan38@example.org,438-511-5618x0217,"574 Lindsey Spurs Apt. 130
+Lake Brian, VI 97103",6/7/1966,Part-time,EMP1013,28192.84,12/17/1972
+Kelli Wade,Other,American,Customer Service,Customer Service Rep,20,12/26/2005,wrodriguez@example.org,001-390-758-9534,"6049 Quinn Hollow
+Kimberlyberg, IL 48670",10/17/2012,Full-time,EMP1014,64751.64,
+Jesse Hansen,Other,American,Cashier,Lead Cashier,33,5/11/1992,anthony39@example.org,459-495-4018,"91937 Melissa Court Suite 618
+Douglasstad, NE 84346",4/24/2015,Full-time,EMP1015,37928.35,7/28/2018
+Daniel Parker,Female,British,Inventory,Stock Clerk,35,3/29/1990,sandra32@example.org,+1-963-450-7679x47799,"35458 Pamela Circle
+Osbornmouth, AZ 57853",10/2/1999,Freelance,EMP1016,79649.22,
+Joshua Brown,Female,British,Inventory,Warehouse Assistant,56,10/18/1969,ljones@example.com,(656)396-1789,"875 Christopher Club Suite 694
+Kathleenport, AK 71676",1/25/1993,Full-time,EMP1017,45351.69,
+Mark Sims,Female,German,Inventory,Warehouse Assistant,31,7/21/1994,laura75@example.net,+1-583-796-1803x61604,"678 Levine Lodge Apt. 467
+Rileyshire, NE 63591",3/1/1989,Temporary,EMP1018,29733.7,
+Angel Johnston,Female,Canadian,Inventory,Warehouse Assistant,64,12/3/1961,invalid_email.com,,"71377 Robert Haven Apt. 288
+Kevinbury, OH 46430",3/28/1983,Part-time,EMP1019,78421.2,
+Kelli Sanford,Other,American,Customer Service,Support Agent,44,1/3/1981,mannaustin@example.com,+1-259-811-2520x2156,"690 Clark Crossroad Apt. 678
+South John, LA 24379",2/4/1997,Temporary,EMP1020,61341.86,1/19/2006
+Christina Watkins,Male,Canadian,Sales,Sales Associate,150,1/10/1962,perezjessica@example.net,(697)814-8041x53695,"91998 Savannah Views Suite 169
+Shieldsmouth, TX 43137",1/2/1983,Temporary,EMP1021,58204.15,12/3/1984
+Valerie Lee,Male,Indian,Customer Service,Customer Service Rep,50,3/6/1975,smithjeffrey@example.com,910-270-8306,"2477 Hannah Groves Apt. 926
+Carrollside, NY 59833",4/15/1963,Freelance,EMP1022,43379.69,
+Diane Hess,Female,Indian,Inventory,Warehouse Assistant,32,7/25/1993,nicole17@example.org,-8997,"24110 Torres Island Apt. 266
+Jonesview, CT 04792",3/1/1995,Temporary,EMP1023,64598.71,
+Jerome Richard,Female,French,Sales,Sales Associate,27,1/8/1998,estradastephen@example.net,001-311-358-5671x81393,"11040 Fuller Fort
+Loweberg, MA 41944",4/15/1999,Part-time,EMP1024,70007.58,9/27/2002
+Michael Martinez,Female,Indian,Inventory,Warehouse Assistant,56,3/10/1969,codybennett@example.org,,"85798 Cox Fall Apt. 008
+Johnsonfort, SC 85493",9/28/1970,Freelance,EMP1025,58125.43,
+Paul Sullivan,Other,American,Customer Service,Customer Service Rep,21,8/19/2004,mcdonaldlaura@example.net,532-288-4641x662,"55174 Benjamin Estate Suite 423
+Nicoleberg, MN 83765",6/13/2023,Freelance,EMP1026,68097.64,
+Kathy Adams,Other,Indian,Customer Service,Support Agent,54,7/9/1971,wwhite@example.org,(973)469-2482,"2693 Walsh Skyway
+North Paulahaven, MI 41072",8/15/1993,Full-time,EMP1027,62126.23,
+Cesar Sanchez,Female,French,Cashier,Cashier,18,6/6/2007,hherrera@example.net,001-627-214-7651,"16391 Rowland Avenue Apt. 349
+Mcdowellstad, MO 80758",3/14/2034,Full-time,EMP1028,64320.11,
+Anthony Webb,Other,American,Sales,Sales Associate,35,9/23/1990,iwalker@example.org,957-266-3969,"69465 Morgan Drives
+Donaldhaven, LA 21897",11/22/2007,Freelance,EMP1029,41812.33,
+Thomas Owens,Male,Canadian,Sales,Sales Associate,30,12/25/1995,franklinryan@example.org,(329)633-7284,"PSC 7513, Box 6847
+APO AP 65678",5/26/1999,Temporary,EMP1030,42370.99,
+Christopher May,Female,Canadian,Customer Service,Support Agent,62,12/3/1963,seanwang@example.com,(473)952-9673,"5378 John Ports
+Jacksonstad, MS 84968",8/11/1990,Part-time,EMP1031,73983.91,
+Joshua Wilson,Female,Canadian,Customer Service,Support Agent,-5,1/7/1977,sbailey@example.org,7089737248,,4/9/1970,Temporary,EMP1032,68324.72,3/21/1980
+Jackson Ramirez,Female,Canadian,Cashier,Cashier,33,7/28/1992,asnyder@example.org,001-600-209-5309,"845 Schultz Crossroad Apt. 387
+West Lauren, AS 99877",1/15/2003,Full-time,EMP1033,51314.92,
+Cynthia Taylor,Female,Indian,Management,Assistant Manager,20,4/6/2005,jamiearmstrong@example.net,791.721.5288,"PSC 1069, Box 1513
+APO AE 22831",2/24/1993,Freelance,EMP1034,66435.08,10/1/1998
+Stacy Nelson,Male,British,Inventory,Warehouse Assistant,43,10/20/1982,invalid_email.com,266.741.1179x50469,"123 Devin Garden Suite 252
+Michelletown, TX 01624",12/26/2004,Freelance,EMP1035,64652.6,4/6/2014
+Jasmine Matthews,Other,American,Inventory,Warehouse Assistant,25,4/6/2000,stephensmith@example.com,001-261-853-4902x123,"2747 Bush Mills
+Williamview, WI 79698",5/6/1999,Part-time,EMP1036,42036.32,1/7/2005
+James Smith,Other,French,Customer Service,Support Agent,62,3/13/1963,alyssa94@example.net,+1-253-418-2633x2605,"350 Smith Points Apt. 437
+Terriside, NM 62445",8/14/1982,Temporary,EMP1037,27785.43,
+Eric Grant,Other,American,Inventory,Stock Clerk,41,5/31/1984,carrillodavid@example.org,(702)956-1723x16026,,5/10/2010,Part-time,EMP1038,27382.73,
+Jamie Alvarez,Other,German,Management,Assistant Manager,36,9/16/1989,natalie11@example.net,+1-311-733-4774x93265,"2957 Dalton Locks
+South Victorborough, WV 49610",10/14/1999,Freelance,EMP1039,35560.44,
+Joseph Nunez,Other,Mexican,Sales,Senior Salesperson,58,9/2/1967,martinchristine@example.net,592.901.2230,"935 Villa Hill Suite 109
+Perezton, MA 69881",12/21/1961,Full-time,EMP1040,55701.34,3/30/1963
+Allison Delgado,Other,British,Customer Service,Customer Service Rep,35,11/12/1990,yvillegas@example.com,797-517-8250x86178,"Unit 1527 Box 8950
+DPO AE 78537",1/11/1982,Full-time,EMP1041,51104.36,3/13/1991
+Kristina Hodge,Other,German,Cashier,Lead Cashier,48,10/15/1977,dhernandez@example.org,727-295-7615,"873 Morgan Route
+Vazquezshire, AK 98717",6/15/1985,Temporary,EMP1042,73271.48,6/3/1990
+Mr. Daniel Suarez MD,Male,Indian,Customer Service,Support Agent,40,1/27/1985,invalid_email.com,434.381.7041,"74163 Gonzalez Trail
+East Valerie, IA 43603",8/3/1990,Temporary,EMP1043,42300.82,1/31/1992
+Austin Werner,Female,German,Customer Service,Customer Service Rep,59,3/23/1966,bjones@example.com,396.929.7331,"3037 White Island
+South Jeffreyfort, IN 71986",12/12/1990,Temporary,EMP1044,59632.74,6/10/1995
+Andrea Hoffman,Other,Mexican,Management,Store Manager,30,1/24/1995,gfitzgerald@example.net,001-370-373-7357x24523,"8394 Sanchez Fork Apt. 549
+West Jessicaburgh, ND 52229",11/6/2018,Full-time,EMP1045,26453.22,
+Lawrence Marshall,Other,American,Sales,Senior Salesperson,42,6/30/1983,bonniejackson@example.com,817.253.8035,"USS Johnson
+FPO AP 28310",3/30/1970,Part-time,EMP1046,43695.49,5/16/1976
+Austin Oneill,Female,Indian,Customer Service,Customer Service Rep,64,2/4/1961,smithnathan@example.org,-10476,"Unit 3173 Box 0038
+DPO AA 51415",10/10/1978,Temporary,EMP1047,40130.62,12/8/1980
+Jeremiah Anderson,Other,British,Sales,Sales Associate,47,4/7/1978,dylanhernandez@example.net,-3794,,10/15/1964,Full-time,EMP1048,39703.03,4/7/1972
+Alan Smith,Male,Mexican,Customer Service,Customer Service Rep,40,10/11/1985,swheeler@example.com,(464)629-1340x44387,"76546 Chelsea Plains Apt. 747
+Chadside, AR 79887",8/26/1984,Freelance,EMP1049,35201.16,
+Loretta Ross,Female,Canadian,Inventory,Warehouse Assistant,50,3/8/1975,donaldmason@example.net,(753)997-2200,"067 Goodwin Mountains
+Crawfordchester, VI 53286",5/29/1967,Part-time,EMP1050,39656.47,
+Angela Osborn,Male,German,Customer Service,Customer Service Rep,61,6/10/1964,marcus71@example.net,001-897-824-2093x687,"3077 Mclaughlin Ports
+Cookview, NE 21939",5/16/1958,Full-time,EMP1051,77104.1,
+Brittany Hernandez,Female,Canadian,Cashier,Lead Cashier,54,5/8/1971,jacobswilliam@example.net,-9302,"41243 John Port
+Lauratown, VA 85178",5/13/1986,Freelance,EMP1052,43249.88,4/9/1994
+Todd Johnson,Female,Canadian,Sales,Sales Associate,27,1/22/1998,timothyhiggins@example.net,202.635.5498x319,"25261 Thompson Mission
+Leslieshire, VI 84335",11/2/2000,Temporary,EMP1053,76239.48,6/23/2008
+Corey Stevens,Other,Indian,Inventory,Stock Clerk,42,10/21/1983,darrell76@example.com,+1-265-407-6332x00586,"29636 Perkins Pass
+New Angelabury, PR 23818",11/22/1998,Part-time,EMP1054,69216.42,
+Joshua Little,Other,American,Sales,Senior Salesperson,34,7/15/1991,corey17@example.com,789.603.9481x62586,"255 Matthew Views
+Robertsbury, ME 96979",10/21/1994,Temporary,EMP1055,49294.79,
+Misty Norris,Female,British,Sales,Senior Salesperson,31,3/16/1994,ashleycoleman@example.net,518.932.0702,"3359 Kristie Radial
+Joshuamouth, MN 70200",3/31/1983,Full-time,EMP1056,60909.69,7/1/1989
+Peggy Barker,Male,British,Sales,Senior Salesperson,28,10/12/1997,hrice@example.net,571-718-0292,"04735 Rush Pike Apt. 707
+Lake Stephanie, MT 76610",1/7/2019,Part-time,EMP1057,72486.88,
+Victoria Case,Other,French,Inventory,Warehouse Assistant,36,1/11/1989,kaitlynwaller@example.org,,"09075 Valdez Road Suite 569
+North Todd, MT 40655",3/3/2011,Full-time,EMP1058,27695.85,
+Joan White,Male,Mexican,Sales,Sales Associate,32,4/7/1993,wnunez@example.com,879.948.6670x50182,"344 Daniel Roads
+Port Marystad, PA 88132",7/22/1985,Full-time,EMP1059,36603.78,
+Katie Thompson,Other,Indian,Customer Service,Support Agent,30,12/7/1995,xaustin@example.com,001-860-466-6107,"0726 Valerie Port
+Riveraborough, NV 72063",9/12/1995,Part-time,EMP1060,76797.22,4/4/2000
+Mr. Jason Johnson,Female,Indian,Inventory,Stock Clerk,44,5/17/1981,cynthiawillis@example.net,-8782,"756 Rodriguez Flats
+New Elizabethborough, VT 63648",2/6/1975,Part-time,EMP1061,79732.89,7/8/1979
+John Nielsen,Female,French,Customer Service,Customer Service Rep,58,4/4/1967,carrie69@example.com,(251)981-4296x2999,"5006 Herbert Curve
+East George, MD 16546",3/20/1981,Freelance,EMP1062,29545.91,
+Cynthia Cook,Other,Indian,Sales,Sales Associate,62,1/24/1963,robertroberts@example.net,001-557-662-5032,,8/5/1981,Temporary,EMP1063,62034.03,5/6/1988
+Tristan Caldwell,Male,Mexican,Cashier,Lead Cashier,63,4/29/1962,hartjeremy@example.com,-8770,"29504 Johnson Expressway Suite 874
+Butlertown, HI 53686",1/23/1970,Part-time,EMP1064,44163.48,7/9/1978
+Bryan Park,Other,Mexican,Management,Store Manager,62,4/28/1963,riverasarah@example.net,+1-525-560-0290x3377,"314 Anna Stravenue Apt. 148
+Cordovahaven, AS 07916",4/2/1986,Part-time,EMP1065,64284,2/3/1984
+Jacqueline White,Female,American,Sales,Sales Associate,150,4/2/2000,ajensen@example.net,001-684-805-1337,"2816 Cindy Trafficway Suite 146
+Beckborough, OK 42470",4/21/2020,Temporary,EMP1066,68706.15,
+Michael Gregory,Other,Canadian,Inventory,Stock Clerk,64,6/22/1961,ruthpierce@example.com,438.323.8978,"0509 Nicole Harbors
+Port Donna, UT 72330",8/8/1971,Full-time,EMP1067,41757.23,
+Austin Blake,Female,French,Inventory,Stock Clerk,41,6/10/1984,samantha56@example.com,+1-259-718-6520x679,"USNS Jones
+FPO AE 45483",5/28/1993,Freelance,EMP1068,54005.26,
+Erin Scott,Female,British,Sales,Senior Salesperson,27,4/30/1998,diana40@example.net,001-814-881-8776x45718,"44107 Jennifer Lakes
+Lake Davidmouth, MN 68457",8/31/2023,Part-time,EMP1069,25525.31,
+Miranda Robinson,Male,Indian,Cashier,Lead Cashier,-5,6/21/1998,wjacobs@example.com,001-610-313-2620x94200,"577 Melissa Summit Apt. 920
+Port Sarah, VA 68418",11/10/1999,Freelance,EMP1070,67927.36,
+Kimberly Green,Other,Mexican,Sales,Sales Associate,34,1/3/1991,richard93@example.org,(763)936-9416,"02997 Katherine Parks Suite 987
+Scottfurt, AZ 09877",6/30/1992,Full-time,EMP1071,61105.81,
+Lawrence Harris,Female,Canadian,Sales,Sales Associate,32,5/5/1993,colemark@example.org,587.933.9271,"594 Rose Mission Suite 419
+New Jessicahaven, AR 79855",7/3/2009,Full-time,EMP1072,78301.26,
+Micheal Jackson,Other,American,Inventory,Warehouse Assistant,54,2/13/1971,padams@example.net,-2951,,1/9/1973,Temporary,EMP1073,67173.8,2/2/1978
+Charles Foley,Female,Mexican,Sales,Sales Associate,54,5/18/1971,josephprice@example.org,,"PSC 6882, Box 4640
+APO AE 34892",2/28/1974,Freelance,EMP1074,71661.18,
+Jessica Nguyen,Other,Mexican,Management,Assistant Manager,29,1/17/1996,johnwhite@example.org,001-564-507-5639x635,"6764 Ingram Canyon
+North Matthew, MH 56926",5/14/2002,Part-time,EMP1075,38293.19,12/6/2006
+Douglas Powers,Other,French,Sales,Senior Salesperson,32,1/20/1993,christianlong@example.org,+1-477-354-8191x444,"Unit 6190 Box 2119
+DPO AE 11963",9/12/2013,Freelance,EMP1076,43374.92,10/31/2017
+Alex Anderson,Female,American,Management,Store Manager,150,4/22/1970,thomas17@example.net,8183616570,"5539 Tracy Land
+West Jasonview, FL 29235",12/31/1993,Freelance,EMP1077,37359.7,
+Samantha Hodges,Female,Canadian,Management,Assistant Manager,150,2/1/1965,stephenthornton@example.com,+1-354-524-0695x8918,"79421 Dan Ridge Apt. 199
+Blackwellfort, AK 67314",12/16/1953,Freelance,EMP1078,50873.97,
+Karen Fields,Other,Mexican,Inventory,Stock Clerk,28,11/29/1997,danielhansen@example.net,836.345.0060x20742,"26002 Welch Groves Suite 167
+Velezborough, NH 51172",9/22/2000,Part-time,EMP1079,66565.89,9/28/2005
+Karen Shepherd,Other,Mexican,Customer Service,Support Agent,41,11/17/1984,judy56@example.com,(983)638-4777x23262,"6197 Nguyen Trail
+West Jake, NV 59963",6/25/1983,Part-time,EMP1080,67838.9,
+Angela Weber,Male,Indian,Customer Service,Support Agent,49,11/6/1976,valerieweiss@example.org,257.923.1570,"1666 Sean Road
+Wilsonbury, NM 73214",4/4/1996,Freelance,EMP1081,45780.43,
+Jennifer Crawford,Other,American,Inventory,Stock Clerk,63,8/27/1962,garyramirez@example.net,(444)597-1351,"22746 Burton Drives
+West Heidi, OH 49010",9/23/1962,Part-time,EMP1082,33301.34,5/5/1965
+Cathy Lewis,Male,French,Inventory,Stock Clerk,24,9/5/2001,laurastewart@example.org,2902426442,"1380 Tammy Stream
+Charlesport, OR 35695",8/18/1997,Temporary,EMP1083,63756.39,3/15/2004
+Vickie Stone,Male,Canadian,Cashier,Lead Cashier,36,3/2/1989,nspence@example.com,001-460-347-9156x8715,,11/17/2012,Part-time,EMP1084,26311.35,11/24/2019
+Michael Flores,Female,German,Cashier,Lead Cashier,27,8/19/1998,lwatson@example.com,202.321.1494,"45935 Williams Walks
+Amberberg, WI 82685",10/17/2021,Part-time,EMP1085,51089.3,
+Linda Bailey,Male,Canadian,Sales,Senior Salesperson,28,11/21/1997,nsimpson@example.com,433.840.4564x12258,"USS Wise
+FPO AA 31401",9/30/1999,Freelance,EMP1086,32808.5,1/5/2006
+Marcus Nichols,Male,Indian,Inventory,Stock Clerk,26,1/21/1999,invalid_email.com,(278)573-0631x471,"84484 Monica Landing Apt. 520
+Andersonton, PA 74333",6/15/2015,Freelance,EMP1087,39744.64,
+Lynn Garcia,Female,German,Customer Service,Customer Service Rep,52,6/14/1973,perezjames@example.org,(648)630-8794,"92124 Fitzgerald Point
+New Matthewfort, NJ 07268",5/21/1988,Part-time,EMP1088,26987.46,10/16/1991
+Michelle Tran,Male,American,Customer Service,Customer Service Rep,65,6/26/1960,vazquezthomas@example.com,(232)957-2563x15537,"257 Lisa Flat
+Cantrellside, TN 58225",2/11/1967,Temporary,EMP1089,25238.17,
+Robert Carroll,Female,Mexican,Cashier,Cashier,65,12/21/1960,maria33@example.net,+1-304-858-3772x1331,"701 Hendrix Route
+Lake Scott, MP 42771",1/17/1965,Full-time,EMP1090,30509.76,
+Zachary Garcia,Male,Mexican,Management,Assistant Manager,50,2/17/1975,williamsnicole@example.com,(463)229-2643,"27107 Alicia Plain
+Carlfort, RI 43121",5/15/1986,Temporary,EMP1091,51195.02,
+Cory Guzman,Female,French,Inventory,Warehouse Assistant,50,1/4/1975,kristin92@example.org,375.344.3398x6010,"9130 Walker Turnpike Suite 136
+Rodriguezborough, OH 03819",2/8/1980,Part-time,EMP1092,70712.27,11/12/1982
+Jason Douglas,Male,Canadian,Sales,Sales Associate,56,4/11/1969,marissaparker@example.net,(536)949-6437,"7921 Kimberly Squares
+Port Michaelport, IA 69800",11/17/1957,Part-time,EMP1093,27918.67,4/7/1959
+Dr. Emily Fischer,Male,Indian,Customer Service,Customer Service Rep,51,8/13/1974,cherylthomas@example.org,-2028,"384 Rebecca Ports
+North Kathyburgh, CO 14423",12/3/1980,Freelance,EMP1094,44029.38,
+Karen Bautista,Other,Mexican,Management,Store Manager,33,7/5/1992,estesnicholas@example.org,(575)906-8497x08856,"267 Austin Highway
+Lake Debra, PW 82661",12/21/2015,Freelance,EMP1095,60524.03,
+Susan Bryant,Other,Mexican,Sales,Sales Associate,38,3/2/1987,whitedavid@example.org,530-812-2639x168,"6734 Jones Neck
+West Brenda, UT 95353",6/12/2003,Full-time,EMP1096,58705.53,
+Micheal Mccoy,Male,French,Sales,Senior Salesperson,19,8/20/2006,samanthavargas@example.org,,"80767 Morgan Road
+Moniqueview, PW 08254",2/16/2011,Part-time,EMP1097,43731.59,8/16/2020
+Scott Brown,Male,Mexican,Cashier,Lead Cashier,26,12/20/1999,carlosjackson@example.org,+1-515-549-8958x18983,"9562 Terry Knolls
+North Stacytown, MH 37590",6/21/1991,Freelance,EMP1098,38519.43,
+Melissa Williams,Male,American,Customer Service,Customer Service Rep,39,8/11/1986,beth88@example.org,987.873.6126x5181,"98604 Brown Corner Apt. 612
+Andreaburgh, IL 41544",8/13/1990,Freelance,EMP1099,57467.6,
+Alan Yang MD,Female,Canadian,Sales,Sales Associate,23,8/21/2002,wbutler@example.net,879-696-8525x913,"14770 Mclean Square Apt. 922
+New Tylerbury, MS 24955",10/7/1991,Full-time,EMP1100,69225.6,6/30/1998
+Michael Vega,Other,American,Cashier,Lead Cashier,40,2/11/1985,nancy56@example.net,+1-643-671-8103x854,"189 Roberts Key Suite 374
+East Matthew, AL 75384",12/19/1975,Temporary,EMP1101,29957.57,3/22/1977
+Christian Massey,Male,German,Sales,Senior Salesperson,66,12/28/1959,istewart@example.org,(229)854-2931,,11/22/1953,Part-time,EMP1102,78893.98,
+Patricia Thompson,Other,American,Cashier,Cashier,31,9/14/1994,bradyconnie@example.org,001-483-597-0752x386,"928 Grace Wells Suite 706
+Sabrinaview, VI 19804",10/2/2013,Full-time,EMP1103,76556.59,10/30/2019
+Richard Rogers,Other,Mexican,Customer Service,Support Agent,61,7/7/1964,alexander75@example.org,,"46806 Brown Squares Suite 748
+West Dana, VT 96793",12/29/1959,Full-time,EMP1104,75763.03,
+Heather Rodgers,Female,American,Inventory,Warehouse Assistant,43,9/7/1982,joshuaterry@example.net,(505)559-0897,"Unit 4452 Box 7900
+DPO AP 15066",3/18/2002,Full-time,EMP1105,32966.83,4/2/2007
+Melissa Griffith,Other,German,Cashier,Lead Cashier,63,5/1/1962,melissa38@example.org,726.774.1298,"813 Luis Field Suite 116
+Petersshire, IA 71921",8/9/1953,Freelance,EMP1106,75489.55,
+Christine Velasquez,Male,French,Inventory,Warehouse Assistant,59,12/23/1966,melissa96@example.net,699-559-9371,"285 David Extensions
+Johnsontown, CA 59746",8/14/1973,Freelance,EMP1107,43660.69,9/3/1980
+Kara Morris,Male,Canadian,Customer Service,Support Agent,52,3/1/1973,shanemejia@example.net,518-347-2938x12379,"0701 Rice Camp
+West Annaville, PA 73856",7/17/1959,Temporary,EMP1108,75090.28,4/26/1968
+Christine Collins,Male,French,Inventory,Warehouse Assistant,22,2/15/2003,kdowns@example.net,001-455-876-6489x8007,"99708 Morgan Oval Suite 887
+New Debramouth, FL 27286",2/16/2024,Temporary,EMP1109,31884.28,
+Jerry Wolfe,Male,Canadian,Customer Service,Support Agent,29,1/2/1996,jasonbarrett@example.com,-7973,"8882 William Curve
+Barbaraport, MI 59281",9/11/1986,Temporary,EMP1110,55842.1,
+Jennifer Lara,Male,Indian,Inventory,Stock Clerk,61,9/18/1964,invalid_email.com,,"630 Snow Knoll Suite 619
+Rodriguezshire, IL 01232",12/24/1953,Temporary,EMP1111,34259.1,1/28/1963
+Mr. Jamie Hernandez,Male,Canadian,Customer Service,Customer Service Rep,32,12/19/1993,ann04@example.org,001-623-897-1728x563,"548 Cooley Spur Suite 585
+New Gail, CA 60629",2/16/2006,Freelance,EMP1112,54887.56,
+Matthew Li,Male,American,Sales,Sales Associate,50,6/18/1975,gmcdowell@example.net,472.732.2790,"403 Nancy Square Apt. 304
+Wallerborough, RI 12466",9/25/1973,Full-time,EMP1113,64881.37,
+Ariana Graham,Female,French,Inventory,Stock Clerk,55,5/18/1970,anna86@example.org,001-356-639-3355x9046,"75252 Myers River
+North Aaronton, MH 17322",2/12/1991,Part-time,EMP1114,36616.89,6/2/1992
+Jessica Hampton,Other,Indian,Customer Service,Customer Service Rep,19,8/22/2006,qpatterson@example.org,448-301-4520x454,"760 Nicholas Drive
+South Dorothy, PW 28248",12/14/2008,Full-time,EMP1115,67326.94,12/22/2016
+William Savage,Other,Canadian,Customer Service,Support Agent,35,12/16/1990,invalid_email.com,3595066232,"90286 Austin Port Suite 515
+New Ashleyville, TN 03376",5/21/2016,Temporary,EMP1116,77898.35,3/6/2020
+Sarah Williams,Female,French,Management,Store Manager,57,4/30/1968,gjones@example.org,(537)795-7954,"47101 Chambers Parkways Apt. 850
+Browningmouth, NC 90887",12/3/1985,Full-time,EMP1117,58670.62,
+Brandy Gonzalez,Female,German,Sales,Sales Associate,-5,12/25/1987,ericharrington@example.org,5822762261,"552 Edwards Cape
+Maryfort, VA 42553",11/15/1976,Temporary,EMP1118,55073.84,
+Scott Boyd,Female,Indian,Cashier,Lead Cashier,27,10/22/1998,qlynch@example.org,(559)563-6538x48074,"455 Roy Point Apt. 820
+Nathanmouth, MI 90111",6/23/1995,Temporary,EMP1119,75302.99,
+Cynthia Richmond,Female,Mexican,Inventory,Warehouse Assistant,-5,11/6/1959,rittercheryl@example.net,261.482.6799x1776,"93055 Wilcox Land Apt. 781
+West Janice, IN 57632",1/4/1970,Temporary,EMP1120,40325.33,
+Joshua Hill,Male,German,Inventory,Stock Clerk,42,2/28/1983,jgutierrez@example.org,2926413431,"2842 Green Prairie Suite 412
+Ricebury, UT 62574",11/6/1971,Part-time,EMP1121,36942.19,6/2/1979
+Cynthia Peters,Female,British,Customer Service,Customer Service Rep,34,4/14/1991,marciaprince@example.org,+1-934-318-1589x893,"0841 Tran Forks Apt. 961
+Chavezberg, AL 51701",10/22/1996,Freelance,EMP1122,46213.68,12/23/2004
+Katherine Sandoval,Other,French,Management,Store Manager,64,2/19/1961,joseph97@example.org,+1-460-771-3401x79834,"48965 Logan Point
+Kimshire, AK 12638",5/6/1979,Full-time,EMP1123,46119.24,4/22/1981
+Cathy Gutierrez,Male,German,Management,Store Manager,33,8/7/1992,ydonaldson@example.com,-6957,"7859 Hughes Stravenue Suite 726
+East Jennifermouth, MP 46843",11/22/2008,Part-time,EMP1124,35708.82,
+Jason Davenport,Male,Mexican,Inventory,Stock Clerk,22,12/19/2003,lmarks@example.net,001-205-703-3034x243,"USNV Roberson
+FPO AP 97254",4/17/2025,Freelance,EMP1125,46747.55,
+Amanda Miller,Female,American,Inventory,Stock Clerk,-5,7/22/1994,dlopez@example.org,+1-679-668-6962x699,"419 Deborah Neck
+West Jeremyburgh, GU 07664",1/20/2002,Full-time,EMP1126,42554.01,1/14/2012
+Kenneth Roberson,Other,German,Sales,Sales Associate,54,8/2/1971,brownmadison@example.org,001-234-630-7384x8299,"USNV Whitehead
+FPO AP 26760",6/15/1997,Full-time,EMP1127,49285.1,10/23/2001
+Philip Harrison,Other,French,Management,Assistant Manager,36,1/3/1989,mcclureann@example.net,+1-326-615-6015x7677,"4409 William Square
+Port Paul, AK 06469",3/5/2004,Full-time,EMP1128,58594.22,11/9/2005
+Carol Giles,Other,American,Customer Service,Customer Service Rep,23,11/29/2002,peterrobinson@example.com,737.905.6408x90212,"5274 Jill Common
+Tonybury, CO 72395",9/22/2028,Temporary,EMP1129,29622.72,
+Melanie Willis,Other,German,Cashier,Lead Cashier,42,3/12/1983,jameswilliams@example.org,(253)229-0367x645,"65135 Joseph Crossroad Apt. 923
+Marthaside, SD 26483",11/18/1987,Full-time,EMP1130,34579.1,
+Whitney Melton,Male,Canadian,Sales,Sales Associate,-5,1/30/1993,calebrodgers@example.com,(373)315-7832x8499,"07119 Conner Unions
+New Calebhaven, AL 05792",9/12/2003,Part-time,EMP1131,73365.99,
+Terry Mcbride,Female,American,Inventory,Stock Clerk,65,6/28/1960,stephen35@example.com,001-368-559-8124,"2250 Robert Knolls Suite 319
+Port Tony, RI 43304",10/13/1983,Temporary,EMP1132,31738.63,
+Jared Salinas,Other,Indian,Cashier,Lead Cashier,49,2/15/1976,invalid_email.com,409-328-9440x9905,"82794 Jeffrey Drive
+Beckborough, HI 80655",7/4/1965,Freelance,EMP1133,68067.4,5/21/1970
+Michael Price,Other,Mexican,Sales,Senior Salesperson,54,3/27/1971,invalid_email.com,236.845.6788,"Unit 1401 Box 0260
+DPO AE 83839",10/22/1966,Temporary,EMP1134,58659.57,
+Abigail Mcbride,Other,Mexican,Inventory,Warehouse Assistant,19,9/11/2006,andrewsummers@example.org,-10725,"Unit 0503 Box 4732
+DPO AA 06295",9/22/2021,Full-time,EMP1135,50132.81,
+Laura Norris,Male,British,Management,Assistant Manager,42,8/26/1983,lewisstephanie@example.org,+1-434-939-4850x3163,"441 Hall Glen Suite 918
+South Rachel, RI 49138",2/27/1996,Freelance,EMP1136,79836.96,10/20/2004
+Barry Young,Female,Canadian,Inventory,Stock Clerk,20,12/8/2005,ltaylor@example.org,(541)888-6907x9037,"311 Taylor Glens
+Jacobshire, AL 09559",5/15/1994,Freelance,EMP1137,72103.3,8/13/2002
+Priscilla Valdez,Female,Canadian,Cashier,Lead Cashier,20,11/23/2005,sanchezamanda@example.com,+1-757-994-3210x606,"366 Scott Rapid
+Huntmouth, OK 32494",5/30/2015,Freelance,EMP1138,38940.78,
+Antonio Hansen,Other,French,Management,Store Manager,52,7/9/1973,hendersonjames@example.org,001-860-261-8120x69203,"18874 Carlson Valley Suite 359
+Ambermouth, PR 76047",12/5/1978,Part-time,EMP1139,29714.18,
+Brooke Bell,Male,German,Cashier,Cashier,34,2/7/1991,plewis@example.net,001-298-859-6710,"1560 Carlos Forest
+Valeriefort, ME 11982",12/19/1988,Temporary,EMP1140,72699.15,11/8/1991
+Christopher Berry,Female,American,Sales,Senior Salesperson,21,1/30/2004,beasleyjoshua@example.net,001-975-662-1756x327,"34934 Park Roads
+East Victoria, NH 75891",11/30/2009,Full-time,EMP1141,27762.36,3/10/2014
+Michelle Alexander,Female,German,Management,Assistant Manager,43,9/25/1982,qtucker@example.org,306-928-2209x23732,"USS Smith
+FPO AA 54580",7/23/1971,Temporary,EMP1142,77006.29,
+Denise Wallace,Female,French,Inventory,Stock Clerk,64,5/5/1961,cohenwilliam@example.com,713.491.2582x226,"4168 Carroll Common Apt. 562
+Gibbsstad, MO 75371",4/10/1969,Full-time,EMP1143,61138.92,
+Karen Wallace,Male,British,Customer Service,Support Agent,63,1/21/1962,matabradley@example.com,(682)556-3651,"1441 Estrada Trafficway
+Greggmouth, MD 22110",5/8/1950,Freelance,EMP1144,59163.43,
+Nicole Ramos,Female,American,Cashier,Cashier,19,1/12/2006,smithchristopher@example.com,201-393-0174x09634,"93958 David Village
+Browntown, AZ 34704",8/31/2011,Part-time,EMP1145,30736.2,
+Jenny Daniel,Female,German,Cashier,Cashier,25,10/5/2000,invalid_email.com,299-343-5251,"0669 Makayla Parkway Suite 283
+South Charlesport, VI 03766",4/11/1999,Part-time,EMP1146,78795.41,5/19/2005
+William Peterson,Other,French,Customer Service,Customer Service Rep,60,4/27/1965,invalid_email.com,(739)447-5916,"31991 Jeremy Neck
+Racheltown, WY 26142",1/7/1976,Full-time,EMP1147,26161.02,
+Paul Harrell,Other,French,Inventory,Stock Clerk,55,4/4/1970,invalid_email.com,001-868-650-6692x4474,"7108 Joseph Ford Apt. 402
+Port Lisabury, MO 80379",7/2/1964,Full-time,EMP1148,54216.74,
+Megan Gonzalez,Other,Indian,Inventory,Stock Clerk,22,3/13/2003,pmccoy@example.net,+1-497-809-1483x53492,"605 Brown Burg Apt. 716
+South Johnnyland, NY 01840",9/2/2006,Temporary,EMP1149,78517.76,2/13/2013
+Robert Hendricks,Other,Indian,Cashier,Cashier,65,7/24/1960,christianwright@example.org,773-980-0065,"20505 Andrea Alley
+Lihaven, AR 68121",10/21/1967,Temporary,EMP1150,76051.29,1/24/1977
+Sarah Byrd,Female,German,Cashier,Lead Cashier,40,11/6/1985,flemingkevin@example.org,(378)556-0045x9653,"2646 Lewis Springs Suite 875
+Jillshire, DE 79678",7/28/1977,Full-time,EMP1151,57117.33,8/2/1981
+Dennis Barker,Male,Canadian,Management,Assistant Manager,29,6/20/1996,bergkimberly@example.org,+1-636-776-4498x8391,"124 Li Trail Suite 223
+Stevensside, AL 15265",5/23/1990,Full-time,EMP1152,55495.77,
+Reginald Zavala,Female,French,Inventory,Stock Clerk,64,4/14/1961,nbauer@example.com,680-421-3404x83313,"9969 Jennifer Mews Apt. 143
+Lake Tracymouth, NV 26672",8/16/1965,Part-time,EMP1153,49198.71,11/2/1967
+Dr. Jessica Cox MD,Male,French,Sales,Sales Associate,61,6/11/1964,harringtonkristen@example.com,588.760.0007x30978,"694 Derrick Islands
+New Isaiah, MP 82925",5/12/1987,Full-time,EMP1154,61332.13,10/7/1996
+Lee Cohen,Other,Canadian,Sales,Sales Associate,19,3/18/2006,timothy74@example.net,619.415.5890x270,"PSC 4972, Box 0236
+APO AA 53595",4/27/2031,Full-time,EMP1155,76320.96,
+Jennifer Juarez,Other,American,Inventory,Warehouse Assistant,50,1/5/1975,thomasjulia@example.org,426.848.4420x90035,"457 Price Expressway
+West Chelseashire, NJ 30819",4/29/1985,Temporary,EMP1156,74949.99,2/12/1995
+Susan Horn,Male,German,Management,Store Manager,31,12/11/1994,invalid_email.com,599.548.1976,"9450 Aguilar Centers
+North Wanda, VI 78968",5/22/1992,Freelance,EMP1157,26686.61,8/9/1995
+Edward Clements,Other,American,Sales,Sales Associate,22,5/6/2003,amandawaller@example.com,668.880.7459x0127,"389 Hanna Way Apt. 054
+Morrismouth, CO 99845",12/16/1989,Freelance,EMP1158,72399.22,10/21/1993
+James Chavez,Female,Indian,Customer Service,Support Agent,43,8/16/1982,schroederamanda@example.org,001-879-422-5093x7625,"0975 Clarence Stravenue Suite 813
+Roweberg, CO 88090",5/20/2004,Full-time,EMP1159,35191.51,11/15/2007
+Mary Rosales,Male,German,Inventory,Warehouse Assistant,-5,10/18/1980,dtaylor@example.com,+1-411-324-0082x4462,,8/28/2006,Freelance,EMP1160,46555.18,11/30/2009
+Kayla Cunningham,Male,Mexican,Customer Service,Support Agent,49,7/8/1976,eanderson@example.org,(962)863-5760x87818,"4975 Betty Springs Suite 027
+Wheelerborough, DC 16762",4/23/1997,Full-time,EMP1161,29318.32,
+Michael Rosales,Male,French,Management,Assistant Manager,24,8/16/2001,uweber@example.net,(338)310-3141,"32726 Ian Gardens Suite 526
+New Laurenstad, DE 04394",1/5/1999,Freelance,EMP1162,73540.9,2/19/2006
+Christopher Williams,Male,German,Customer Service,Support Agent,61,6/20/1964,cwhite@example.net,(558)614-9212,"94322 Amanda Streets Suite 665
+Michelleberg, NH 96007",1/18/1959,Part-time,EMP1163,66671.62,4/3/1965
+Danielle Rosales,Female,Mexican,Cashier,Cashier,35,10/24/1990,murphykenneth@example.org,2068058663,"45344 Mcclure Greens Apt. 271
+Johntown, RI 78863",3/6/2010,Temporary,EMP1164,63680.99,
+Karen Perez,Male,Canadian,Customer Service,Customer Service Rep,44,3/27/1981,gonzalesjason@example.org,690-536-3720,"USS Kennedy
+FPO AP 12605",2/12/1989,Part-time,EMP1165,28747.26,4/26/1991
+Mrs. Mackenzie Cox DVM,Other,French,Customer Service,Customer Service Rep,54,5/26/1971,timothy77@example.com,+1-973-626-0014x009,,2/18/1962,Temporary,EMP1166,55368.98,6/9/1964
+Franklin Hodges,Male,German,Inventory,Warehouse Assistant,54,12/14/1971,aaronnguyen@example.org,(349)856-5463,"021 Crystal Parkways Suite 754
+Peterston, CO 76757",6/8/1993,Temporary,EMP1167,40358.15,3/21/1995
+Stacey Garza,Other,French,Customer Service,Support Agent,31,9/26/1994,tina24@example.net,+1-643-252-2832x8671,"854 Cooley Wall
+West Michael, MN 21865",9/14/1999,Full-time,EMP1168,57386.04,7/19/2006
+Jonathan Brewer,Other,French,Management,Assistant Manager,25,7/7/2000,lindajones@example.com,(452)924-9283x9576,"1415 Foster Landing
+Bonillamouth, UT 75026",4/1/2015,Full-time,EMP1169,76134.52,
+Amanda Thomas,Other,Indian,Sales,Senior Salesperson,47,4/29/1978,chloeglover@example.com,(426)731-8756x7709,"515 Paula Lodge
+Rodriguezburgh, UT 77424",4/29/1983,Part-time,EMP1170,61201.09,
+Dan Carlson,Male,Canadian,Customer Service,Customer Service Rep,58,8/29/1967,cwhite@example.org,435-678-7553,"89491 Sanford Villages
+New Thomas, AR 30920",7/5/1987,Freelance,EMP1171,79012.73,
+Kristin Newman,Female,British,Management,Store Manager,44,11/12/1981,elizabethtyler@example.net,+1-566-380-2006x87113,"3446 Wells Forest Apt. 009
+Lake Bonnie, MH 86232",1/27/2000,Freelance,EMP1172,27105.82,4/4/2003
+Colton Castaneda,Female,French,Cashier,Lead Cashier,52,2/2/1973,osmith@example.net,001-523-304-8010,"PSC 5676, Box 9603
+APO AP 57805",3/10/1963,Full-time,EMP1173,74818.69,12/4/1970
+Darrell Gross,Female,Canadian,Cashier,Lead Cashier,54,11/28/1971,ortizjacob@example.com,484-458-9818x3440,"4477 Moses Pass Suite 468
+Thompsonview, OR 53980",1/14/1996,Freelance,EMP1174,49524.77,
+Amanda Brady,Female,Canadian,Customer Service,Customer Service Rep,25,5/16/2000,catherine48@example.org,318.527.4565x995,"015 Keith Ports
+Debrashire, NM 24283",1/31/2009,Full-time,EMP1175,56903.73,
+David Williams,Female,Mexican,Inventory,Warehouse Assistant,31,3/23/1994,ramirezshannon@example.com,931-668-9250,"Unit 2958 Box 7040
+DPO AP 95270",10/19/2017,Part-time,EMP1176,63650.63,6/21/2025
+Gary Gates,Female,Mexican,Inventory,Warehouse Assistant,20,2/23/2005,donovanlaura@example.net,(962)894-0859x15772,"73223 Mccarty Park
+East Jessica, MD 39681",5/13/2030,Part-time,EMP1177,39798.14,
+Raven Adams,Female,American,Cashier,Cashier,49,4/30/1976,nicholas09@example.com,(568)913-3623,"519 George Ridge
+North Michael, PR 23631",1/1/1998,Temporary,EMP1178,70736.61,4/2/2003
+Michael Dean,Male,German,Management,Store Manager,28,3/21/1997,whitney15@example.net,358.942.7164,"8954 Carlos Center
+Stevenshire, NM 20489",9/6/2006,Part-time,EMP1179,55548.47,5/8/2012
+Dr. Rebecca Wright DDS,Female,Mexican,Customer Service,Support Agent,21,12/6/2004,josephthompson@example.com,240.622.3152,"41370 Angela Village
+Autumnborough, NY 54916",5/7/2014,Freelance,EMP1180,35450.81,
+James Kelley,Other,Canadian,Sales,Senior Salesperson,53,1/19/1972,invalid_email.com,(366)222-2402x268,"680 Gomez Path Apt. 861
+Colemanfort, GU 94965",1/17/1961,Part-time,EMP1181,59487.99,
+Robert Herrera,Other,British,Sales,Sales Associate,47,5/23/1978,heatherramirez@example.org,580-335-8797,"18481 Denise Mountains
+Adamside, AK 55453",6/9/1983,Part-time,EMP1182,72247.17,3/24/1993
+Elizabeth Baker,Female,British,Sales,Senior Salesperson,45,4/27/1980,jacksonemma@example.com,001-316-647-7567,"1464 Dana Summit Suite 795
+North Dale, ID 92593",11/2/1988,Part-time,EMP1183,35027.91,6/18/1991
+Amber Fuller,Female,French,Cashier,Cashier,21,6/15/2004,savannah22@example.com,865-813-8260,"8148 Stephen Camp
+Jessicamouth, AK 60301",11/1/2019,Full-time,EMP1184,36649.53,10/15/2021
+Natasha Reid,Male,British,Management,Assistant Manager,25,7/24/2000,larrylewis@example.org,604-769-3464,"2114 Lisa Lodge
+Bradleyfurt, ME 29658",1/1/2001,Temporary,EMP1185,27910.53,12/30/2007
+Scott Grimes,Female,Indian,Cashier,Lead Cashier,61,7/10/1964,daisy50@example.com,001-381-427-8789,"417 Kevin Well
+Lake Alyssachester, NV 51252",1/31/1987,Full-time,EMP1186,69279.43,8/8/1988
+Jeff Martinez,Other,Canadian,Customer Service,Customer Service Rep,60,10/20/1965,jessicasmith@example.net,9614701688,"0573 Brewer Centers
+Lake Anthony, MN 05483",7/30/1962,Part-time,EMP1187,59558.68,1/30/1971
+Robin Pitts,Male,Canadian,Inventory,Warehouse Assistant,39,7/17/1986,diazdeborah@example.com,728.556.3492x0278,"PSC 0732, Box 5307
+APO AA 51488",11/7/2007,Full-time,EMP1188,34409.63,
+Stephanie Williams,Male,German,Inventory,Stock Clerk,30,10/4/1995,howardbrittney@example.net,881.824.9682x7723,"USNV Palmer
+FPO AA 38737",11/2/1999,Full-time,EMP1189,30054.63,5/5/2004
+Karen May,Male,Canadian,Customer Service,Customer Service Rep,29,7/21/1996,tamara49@example.com,(275)293-7907,"USCGC Holland
+FPO AP 94800",9/19/2002,Temporary,EMP1190,70769.06,
+Melissa Rios,Other,British,Inventory,Warehouse Assistant,28,4/2/1997,robert17@example.org,(391)409-6240x944,"0349 Mitchell Gateway Apt. 721
+West Jeffery, CT 23531",11/6/2018,Part-time,EMP1191,49776.48,
+Eduardo Thompson,Female,American,Sales,Senior Salesperson,28,6/1/1997,diamond36@example.org,360.470.3763x77438,"9745 Burton Drive
+Walkerland, MH 96363",3/19/2006,Part-time,EMP1192,60155.87,9/6/2015
+Melinda Williams,Other,Canadian,Customer Service,Customer Service Rep,55,12/13/1970,frankharris@example.net,984-395-0053,"705 Jennifer Oval
+East Christopher, AS 12092",4/9/1989,Full-time,EMP1193,72680.28,
+Dana Davis,Male,Indian,Cashier,Lead Cashier,54,7/18/1971,baileydavid@example.org,442-528-2381,"481 Mendoza Forge
+Adamsburgh, NH 53893",7/24/1982,Temporary,EMP1194,46858.8,
+Jacob Dickerson,Female,German,Customer Service,Support Agent,50,12/30/1975,elizabeth24@example.net,426-708-2464x92862,"79722 Amanda Green
+Shawborough, UT 50526",4/6/1977,Temporary,EMP1195,68201.18,11/19/1981
+Scott Ferguson,Male,Indian,Inventory,Stock Clerk,63,1/17/1962,ssmith@example.com,7549927834,"6843 Alexandra Terrace
+Joshuafort, MN 88335",2/24/1967,Part-time,EMP1196,44272.13,
+Jessica Moore,Female,British,Cashier,Lead Cashier,55,1/21/1970,malik04@example.net,802.868.1236,"9159 Ronald Track Apt. 817
+Smithshire, VI 37415",9/12/1982,Temporary,EMP1197,78827.85,
+Tiffany Williams,Other,German,Sales,Senior Salesperson,18,10/17/2007,mark16@example.com,+1-401-535-5369x817,"Unit 0631 Box 9959
+DPO AE 34449",11/22/2001,Freelance,EMP1198,47273.24,12/21/2004
+Daniel Mack,Other,British,Cashier,Lead Cashier,59,12/23/1966,lopezjacob@example.org,413.836.8866,"76130 Coleman Bridge
+North Kathrynstad, VA 55762",1/17/1989,Full-time,EMP1199,46453.99,
+Gregory Schaefer,Male,German,Management,Assistant Manager,31,6/16/1994,patricia23@example.net,+1-637-539-5838x4118,"988 Mcknight Overpass
+Davisburgh, FL 82858",2/23/2019,Part-time,EMP1200,63198.14,
+Teresa Scott,Female,Mexican,Customer Service,Support Agent,20,5/14/2005,robert31@example.net,001-861-449-7494,"9714 Warren Groves Suite 449
+Kristinamouth, VT 69368",2/18/2018,Full-time,EMP1201,75308.06,1/10/2021
+Adam Howard,Other,British,Customer Service,Customer Service Rep,49,11/25/1976,amandaanderson@example.org,8592720822,,11/28/1983,Full-time,EMP1202,74684.27,7/23/1991
+Dr. Suzanne Adams,Male,Indian,Sales,Senior Salesperson,40,9/24/1985,jasminegreen@example.org,,"65097 May Road Apt. 988
+Ellisbury, MD 86469",2/19/2010,Part-time,EMP1203,71511.83,3/14/2015
+Steven Kelly,Male,Canadian,Sales,Sales Associate,30,10/7/1995,megan79@example.com,(282)548-4440x61480,"915 Bradley Views
+West Dawnfort, KS 68250",6/12/2021,Freelance,EMP1204,74855.59,
+Ronald Kelley,Female,German,Sales,Sales Associate,24,6/26/2001,jacobthompson@example.com,001-260-589-3292x856,"72131 Lori Circle
+Davidsonside, MO 07973",12/13/1994,Temporary,EMP1205,77785.78,1/4/2001
+Patrick Phillips,Female,French,Customer Service,Customer Service Rep,47,10/8/1978,xgriffin@example.com,245-279-4966x0780,"47946 Patrick Vista
+Nicolefort, DE 60750",9/30/1999,Part-time,EMP1206,50998.62,10/22/2000
+William Taylor,Male,Canadian,Sales,Senior Salesperson,38,7/13/1987,nhooper@example.net,538-348-9246,"7643 Mosley Hills
+Lisamouth, OK 32122",12/10/1981,Freelance,EMP1207,42647.73,8/3/1983
+Barbara Jones,Other,American,Inventory,Stock Clerk,46,4/27/1979,libarra@example.net,(676)937-1921x38297,"USNV Murphy
+FPO AP 41283",9/12/1974,Freelance,EMP1208,48832.09,
+Karen Robinson,Male,French,Inventory,Warehouse Assistant,45,2/17/1980,hmullins@example.org,584-978-9886,"003 Adams Vista
+Lake Kimberlychester, NH 14853",3/4/1978,Full-time,EMP1209,60934.94,
+Catherine Morrow,Female,Indian,Customer Service,Support Agent,44,5/16/1981,harrismichael@example.com,001-792-564-9484,"00923 Bennett Mount Apt. 780
+Rodgersfort, IA 92659",12/26/1987,Temporary,EMP1210,66526.35,4/28/1991
+Robert Weber,Other,Canadian,Cashier,Lead Cashier,52,9/24/1973,nicholstammie@example.com,+1-674-632-6922x99389,"PSC 4542, Box 0152
+APO AA 69659",3/31/1976,Freelance,EMP1211,61456.49,
+Richard Allen,Other,French,Management,Assistant Manager,22,6/24/2003,ywoodard@example.org,2618112884,"4521 Hanson Junctions Suite 859
+Robertfurt, IL 14852",3/9/2019,Temporary,EMP1212,26235.52,8/22/2024
+Stephanie Castillo,Female,German,Inventory,Stock Clerk,58,12/21/1967,charles64@example.net,+1-844-663-5779x119,"220 Jerry Fall Suite 474
+Burnsville, ND 32037",4/14/1990,Temporary,EMP1213,52040.62,
+Brian Rodriguez,Female,Mexican,Cashier,Cashier,52,6/9/1973,mcclurepatricia@example.com,+1-865-713-5992x021,"0558 Miller Course Suite 445
+Jasonfort, WY 84836",8/29/1996,Part-time,EMP1214,47348.38,5/26/2000
+Molly Gonzalez,Other,American,Cashier,Lead Cashier,34,1/10/1991,rachel44@example.org,6369399386,"9618 Kevin Parkway
+Kennethshire, AS 49504",1/28/2012,Part-time,EMP1215,44688.98,12/13/2021
+Terri Lang,Male,British,Customer Service,Support Agent,26,4/7/1999,heather75@example.com,714.347.8515,"9339 Davis Land Suite 361
+Hectorport, TN 42014",9/15/2017,Part-time,EMP1216,32332.94,7/6/2023
+Elizabeth Bradshaw,Other,French,Sales,Sales Associate,37,3/5/1988,wbryan@example.net,343-673-4289,"002 Stephanie Route
+Robinberg, VA 81869",11/23/1984,Temporary,EMP1217,32207.96,9/21/1992
+Miss Sherri Palmer,Other,German,Management,Assistant Manager,18,9/6/2007,invalid_email.com,+1-757-995-2042x63059,"98026 Zachary Stream
+Robbinsborough, LA 32112",7/5/2010,Freelance,EMP1218,32875.08,
+Terry Daniels,Female,German,Management,Assistant Manager,26,5/7/1999,thompsonrobert@example.com,+1-252-634-3065x00016,"99810 Weaver Coves Apt. 454
+Davisfort, AL 06921",6/16/2015,Part-time,EMP1219,73435.65,7/13/2019
+John Smith,Female,French,Management,Store Manager,51,8/15/1974,invalid_email.com,+1-324-913-4391x8096,"304 Snow Manor Suite 223
+Johnsonfort, MI 54882",11/1/1977,Part-time,EMP1220,56090.27,
+Laura Smith,Male,British,Inventory,Warehouse Assistant,18,6/25/2007,invalid_email.com,+1-492-786-6956x062,"14477 Elizabeth Points
+Bentleystad, MH 33420",2/23/2003,Full-time,EMP1221,47710.71,
+Joshua Andrews,Other,Indian,Cashier,Cashier,32,8/28/1993,invalid_email.com,001-275-792-1146,"867 Foster Mountain Apt. 713
+Thomasberg, VA 07745",8/14/2004,Full-time,EMP1222,77758.74,
+Jason Mathews,Other,Indian,Sales,Senior Salesperson,27,8/31/1998,catherinelamb@example.org,001-491-728-5683,"35901 Decker Isle Suite 081
+Larrystad, NJ 17511",3/14/2015,Freelance,EMP1223,54708.99,2/2/2019
+Frances Lawson,Other,Indian,Inventory,Stock Clerk,34,3/6/1991,jessica90@example.net,(929)615-4398,"6549 Kristen Ville
+Danaland, AK 75218",1/28/2001,Part-time,EMP1224,62702.54,
+Larry Savage,Female,Mexican,Inventory,Warehouse Assistant,35,1/3/1990,brownmary@example.net,7457930214,"7587 Glass Brook
+South Amandahaven, NM 96229",11/3/1992,Part-time,EMP1225,78866.63,
+Andrea Wise,Other,German,Cashier,Lead Cashier,44,7/23/1981,invalid_email.com,+1-785-518-8104x645,"48058 Terri Parkways
+Port Phillip, NE 44893",10/17/1972,Full-time,EMP1226,34910.12,9/27/1982
+Dr. Anna Murphy DDS,Male,British,Cashier,Lead Cashier,30,11/16/1995,owenscharles@example.net,911.736.5796,"0619 Lester Lakes
+Davisshire, AZ 13668",2/6/1991,Full-time,EMP1227,28754.7,
+Ana Everett,Male,German,Cashier,Lead Cashier,47,7/10/1978,brichards@example.com,540.826.0371x925,"67466 Barnes Key
+Knightberg, CT 18236",7/21/1999,Freelance,EMP1228,45105.83,
+Adam Briggs,Female,Mexican,Sales,Sales Associate,32,3/22/1993,frederick13@example.org,(251)596-0973x6007,"996 Lopez Islands
+East Joseph, TX 01833",2/19/1996,Freelance,EMP1229,28474.06,2/1/2001
+Ashley Smith,Other,American,Inventory,Warehouse Assistant,31,1/25/1994,ycastro@example.net,001-404-593-5122,"29864 Isabel River
+South Traceyfurt, DE 96354",2/15/2013,Full-time,EMP1230,38883,6/24/2015
+Ronald Rodriguez,Male,German,Sales,Sales Associate,62,4/25/1963,ypierce@example.org,(934)475-4867,"PSC 3746, Box 1368
+APO AP 46327",7/18/1966,Part-time,EMP1231,57455,8/11/1971
+Nancy Fisher,Male,French,Customer Service,Support Agent,31,10/18/1994,michael30@example.net,001-524-256-4484x578,"57359 Paul Mountains Apt. 966
+West Carolynville, CO 21971",7/30/1985,Part-time,EMP1232,34148.02,5/22/1987
+Madison Parks,Female,Indian,Sales,Senior Salesperson,38,8/19/1987,invalid_email.com,536-400-9390,"USS Holder
+FPO AE 43196",10/22/2007,Full-time,EMP1233,51518.4,
+Bailey Hill,Other,French,Inventory,Stock Clerk,42,5/14/1983,tyler32@example.com,592.886.3923,"442 Crawford Knolls Suite 790
+Port Logan, HI 95086",1/10/1981,Temporary,EMP1234,52159.81,9/22/1985
+Amber Dawson,Female,French,Cashier,Cashier,49,8/16/1976,davisedward@example.org,,"99418 Ellis Greens Suite 442
+West Brittanytown, WY 99207",9/9/1976,Part-time,EMP1235,51467.18,
+Ashley Gutierrez,Other,French,Cashier,Lead Cashier,27,8/22/1998,ashley26@example.org,(268)623-9161x79770,"579 Cannon Prairie Suite 849
+Jennifershire, GU 20565",10/8/1991,Temporary,EMP1236,56803.83,
+Adrian Smith,Other,British,Management,Store Manager,56,4/26/1969,bkline@example.org,(416)960-6138x53967,"2499 Jennifer Square Suite 899
+Fitzpatrickchester, VT 90465",6/11/1978,Part-time,EMP1237,48208.06,7/25/1987
+Richard Salazar,Other,Canadian,Customer Service,Customer Service Rep,58,10/8/1967,rjones@example.org,,"7916 Lee Mission
+West Johnstad, DC 26044",6/7/1962,Temporary,EMP1238,78686.94,6/26/1970
+Dennis Nguyen,Female,Canadian,Sales,Senior Salesperson,26,11/20/1999,scott50@example.org,(660)338-7259,"7670 Angel Centers
+Harrellview, NJ 83269",2/19/1987,Part-time,EMP1239,34482.29,12/16/1993
+Sylvia Newton,Female,American,Management,Store Manager,34,10/5/1991,tiffanymanning@example.com,304.727.0491x2516,"030 Roberts Via Suite 920
+Anthonyside, MD 29802",10/1/1996,Temporary,EMP1240,44980.28,9/5/1999
+Kelly Glenn,Female,American,Inventory,Stock Clerk,150,3/19/1967,leeleslie@example.org,+1-446-480-8592x909,"63808 Monique Prairie Suite 754
+North Eric, PW 23453",11/27/1960,Temporary,EMP1241,61526.93,5/29/1969
+Larry Price,Female,Mexican,Sales,Sales Associate,55,5/13/1970,gardnersamuel@example.net,,"061 Nguyen Drives
+Lake Christopher, CA 33152",6/29/1989,Freelance,EMP1242,57839.52,4/30/1999
+Michael Liu,Male,French,Sales,Sales Associate,45,7/15/1980,suarezchristopher@example.org,001-448-310-3281,"82732 Haley Ramp
+West Aprilville, PA 71247",12/25/1967,Freelance,EMP1243,77199.56,8/22/1977
+Kiara Barrett,Male,Mexican,Inventory,Warehouse Assistant,36,7/27/1989,cchen@example.net,553-429-1879x80886,"70997 Angela Forest
+Lake Jacob, NE 28992",8/6/1991,Temporary,EMP1244,60608.4,12/1/1997
+Holly Wilson,Male,French,Sales,Senior Salesperson,150,5/15/1967,mitchelljessica@example.com,240-805-3968,"88337 Robinson Island
+Griffithhaven, AS 26857",7/30/1970,Freelance,EMP1245,38693.74,6/27/1976
+Donald Sherman,Other,Indian,Cashier,Cashier,64,1/13/1961,michaelroy@example.org,(213)376-7105x21804,"509 Jason Light
+Williamsonshire, SD 34425",5/28/1971,Part-time,EMP1246,41015.23,
+Michele Erickson,Female,French,Management,Assistant Manager,24,2/27/2001,charles85@example.com,(339)401-4323x14377,"84474 Dominguez Shores
+Mosleychester, VI 42197",7/6/1990,Part-time,EMP1247,74631.89,
+Melissa Rodriguez,Other,German,Management,Assistant Manager,-5,3/23/1985,matthew67@example.org,(678)849-9149,"52071 Pineda Plains
+West Amber, VI 36482",10/5/1979,Part-time,EMP1248,35621.77,
+Amy Hines,Male,British,Cashier,Lead Cashier,63,10/2/1962,adamsjesse@example.com,+1-200-825-3381x0090,"0913 Ball Track
+Diazshire, WV 97206",5/13/1989,Part-time,EMP1249,72800.18,2/21/1999
+Natasha Morrison,Other,Indian,Customer Service,Customer Service Rep,22,8/3/2003,ewilliams@example.com,627-538-5250x627,"72278 Angela Roads Suite 258
+Juliefort, SC 21244",8/30/2009,Freelance,EMP1250,38412.52,2/13/2011
+Angela Black,Male,French,Cashier,Lead Cashier,61,1/2/1964,sylviagreen@example.org,001-415-984-2144x4134,,12/13/1962,Part-time,EMP1251,51372.3,
+Cindy Watkins,Female,American,Sales,Sales Associate,27,8/17/1998,jessica64@example.com,(571)442-9525x659,"65366 Hannah Roads
+East Marcusstad, DC 75006",9/18/2013,Part-time,EMP1252,35403.14,10/27/2022
+Jeremiah Mcknight,Male,Indian,Cashier,Lead Cashier,52,8/5/1973,markburns@example.com,+1-208-946-0457x683,,5/30/1996,Freelance,EMP1253,41753.42,7/17/1997
+Thomas Grant,Female,Canadian,Management,Assistant Manager,44,9/5/1981,bcampos@example.net,543-825-6735,,7/31/1980,Freelance,EMP1254,69710.35,
+Sarah Griffin MD,Female,German,Cashier,Lead Cashier,37,11/1/1988,lorimejia@example.com,+1-536-837-3271x40866,"14938 Michelle Keys
+West Jeremy, MI 37401",10/6/2012,Freelance,EMP1255,32886.98,3/23/2019
+Carlos Guerrero,Other,Mexican,Cashier,Cashier,46,12/30/1979,joshualiu@example.com,222-361-6875x6280,"Unit 0620 Box 6610
+DPO AA 10393",2/23/2000,Temporary,EMP1256,38518.56,3/11/2007
+Patrick Brown,Male,German,Sales,Senior Salesperson,59,10/24/1966,mmiller@example.org,(726)443-2527x18054,,12/13/1983,Temporary,EMP1257,47738.35,8/13/1991
+Timothy Miller,Female,British,Customer Service,Customer Service Rep,34,7/18/1991,erica34@example.net,(778)683-4383,"076 Zhang Freeway
+Spencerchester, IA 98417",2/21/1986,Full-time,EMP1258,71420.37,
+Maureen Orr,Male,French,Sales,Sales Associate,26,8/5/1999,lyonsjustin@example.com,(829)915-2018x319,"4477 Mcdonald Highway Suite 452
+Wesleyfort, AS 58113",9/12/2004,Temporary,EMP1259,36717.66,3/16/2010
+Gregory Brewer,Other,Canadian,Customer Service,Support Agent,40,11/30/1985,bowens@example.com,(392)447-8831x727,"9831 Velasquez Vista
+Gloriaside, AR 80022",8/7/1993,Temporary,EMP1260,62999.34,
+Thomas Ortega,Female,Mexican,Sales,Sales Associate,37,5/21/1988,gabriela69@example.com,8933794709,,7/21/1996,Part-time,EMP1261,56432.5,4/18/2006
+Lauren Foster,Male,Indian,Cashier,Lead Cashier,26,2/5/1999,steven58@example.net,(334)732-3746x68524,,1/12/2025,Temporary,EMP1262,72951.93,
+Brandon Miller,Male,Mexican,Customer Service,Customer Service Rep,48,4/7/1977,lbates@example.org,001-339-458-3475,"69729 Deborah Gardens
+South Charlesport, WA 91304",7/10/1980,Freelance,EMP1263,60908.83,5/9/1985
+Thomas Castillo,Other,American,Inventory,Stock Clerk,55,6/4/1970,richarddoyle@example.org,(536)535-1497,"669 Clark Overpass
+New Marilyn, WI 98890",7/11/1997,Temporary,EMP1264,29304.48,
+Sophia Reed,Male,American,Cashier,Cashier,54,5/16/1971,courtney15@example.org,746.486.8019,"74999 Wu Motorway
+Port Ryan, WY 80079",6/23/1997,Freelance,EMP1265,71406.13,4/16/1999
+Shannon Scott,Male,Indian,Customer Service,Customer Service Rep,52,2/21/1973,brandi67@example.net,001-938-959-3277x00118,"5089 Albert Fall
+Melissamouth, OK 99614",1/11/1986,Temporary,EMP1266,46934.17,
+Jennifer Shaffer,Other,British,Inventory,Warehouse Assistant,29,5/7/1996,joseph30@example.com,001-640-295-6197,"77828 Denise Throughway Suite 616
+Paynefort, MA 69161",12/24/2001,Temporary,EMP1267,37871.3,
+Robert Horton,Other,British,Cashier,Cashier,64,12/16/1961,brandicobb@example.com,(840)545-8246x944,"29112 Sellers Circle
+North Ryanhaven, WY 79439",1/1/1989,Freelance,EMP1268,41663.17,
+Julie Lawrence,Female,American,Sales,Sales Associate,37,8/17/1988,randolphjacob@example.com,6035165551,"505 Clark Shores
+Christinebury, DE 73491",8/3/2008,Full-time,EMP1269,56898.56,5/25/2014
+Thomas Young,Male,Indian,Management,Assistant Manager,21,2/15/2004,michealcampbell@example.net,-8073,"38718 Walker Ville Suite 064
+South Jason, OR 04257",2/12/2026,Full-time,EMP1270,32889.01,
+Stephanie Lee,Other,Indian,Sales,Senior Salesperson,27,4/30/1998,caroline00@example.org,001-487-515-4494x7835,"976 Adams Mission
+Turnerhaven, MO 30656",12/6/2002,Temporary,EMP1271,34452.95,
+Terry Smith,Female,American,Customer Service,Customer Service Rep,29,3/7/1996,invalid_email.com,+1-747-293-6630x6637,"6605 Thomas Island
+Shawnstad, AS 19220",8/24/1985,Part-time,EMP1272,29899.84,12/17/1986
+James Carter,Other,German,Customer Service,Support Agent,31,8/15/1994,kcrawford@example.com,(540)958-9985,"420 David Key
+North Michael, ME 95863",11/13/1994,Freelance,EMP1273,34075.82,10/22/2004
+Elizabeth Salazar,Male,French,Cashier,Cashier,44,8/18/1981,charles64@example.org,+1-660-961-4471x205,"19680 Christy Mall
+Port Jacob, OK 97070",5/26/1983,Part-time,EMP1274,29352.76,
+Diane Jones,Male,American,Customer Service,Support Agent,58,3/31/1967,lcampbell@example.com,386-758-2890,"69443 Andrea Avenue
+South Christopher, VI 53330",2/21/1955,Full-time,EMP1275,48660.48,7/26/1960
+Ana Horton MD,Female,French,Management,Store Manager,21,8/15/2004,deniseallen@example.net,001-209-786-8369x300,"7274 Bishop Parkways
+Darrylhaven, ND 01833",1/15/2001,Full-time,EMP1276,33712.59,
+Louis Mccullough,Female,Canadian,Sales,Senior Salesperson,59,6/22/1966,sward@example.net,-8415,"444 Emily Rest Suite 481
+New Lori, WI 27088",9/24/1982,Freelance,EMP1277,77485.75,1/26/1987
+Makayla Gonzales,Other,French,Inventory,Warehouse Assistant,51,12/30/1974,hartmelanie@example.org,548-298-0278x9563,"491 Colton Dam Suite 997
+East Melanieland, UT 99787",8/26/1979,Temporary,EMP1278,79171.92,11/20/1985
+Courtney Adams,Female,Mexican,Cashier,Lead Cashier,60,7/2/1965,pottsbrittany@example.org,001-624-473-2282x19995,"266 Butler Curve
+North Michelechester, MO 98543",12/27/1957,Full-time,EMP1279,56042.98,
+Caleb Thompson,Male,Canadian,Cashier,Cashier,56,11/23/1969,bryan19@example.org,001-406-987-2389x71619,"808 Moore Road
+Dianeshire, CT 08376",2/15/1967,Part-time,EMP1280,73677.92,6/22/1968
+Ashley Ross,Male,Mexican,Sales,Senior Salesperson,33,10/3/1992,fwarren@example.org,001-751-242-9787x75355,"9089 Case Greens
+North Richard, SD 04297",4/14/2004,Full-time,EMP1281,28525.85,4/7/2013
+Luis Young,Other,Canadian,Inventory,Stock Clerk,22,7/11/2003,robert37@example.org,(631)271-0759,"9215 Elliott Ways Suite 791
+Port Joel, WI 22207",1/9/2006,Full-time,EMP1282,66956.82,
+Ashley Carey,Male,British,Cashier,Lead Cashier,51,5/15/1974,lanerobert@example.net,(495)757-3640,,11/29/1974,Full-time,EMP1283,36965.94,4/19/1977
+Michael Smith,Other,German,Management,Store Manager,65,3/12/1960,karen86@example.org,5116247524,"909 White Fords Suite 270
+Lake Michaelchester, SD 45399",3/22/1969,Part-time,EMP1284,62463.28,6/1/1974
+Hayden Johnson,Male,Mexican,Customer Service,Customer Service Rep,47,12/5/1978,lreyes@example.org,245.271.9257,"18173 Kristy Expressway Apt. 524
+East Jesse, NV 07471",9/2/1982,Temporary,EMP1285,28641.87,2/13/1989
+Richard Sanchez,Male,Canadian,Management,Assistant Manager,59,12/15/1966,davidvazquez@example.org,(278)790-9659x22197,"85740 Martinez Greens Apt. 705
+East Stephanie, NM 93887",5/10/1981,Part-time,EMP1286,49074.64,12/13/1986
+Mrs. Michelle Hall,Other,Canadian,Sales,Sales Associate,44,1/18/1981,aguilarlawrence@example.com,(727)647-0553,"256 Willie Track Apt. 410
+North Alexandrafort, PW 70353",12/10/2005,Full-time,EMP1287,63774.94,
+Robert Peters,Female,German,Management,Assistant Manager,49,4/24/1976,joshuatorres@example.net,001-954-642-3771x45227,"439 Francis Knoll Suite 816
+South Chelsealand, WV 74072",2/9/1970,Part-time,EMP1288,49214.47,
+Ms. Brittany Jenkins,Female,Mexican,Cashier,Lead Cashier,62,6/15/1963,curryconnie@example.com,(354)930-5843,,5/4/1988,Temporary,EMP1289,62618.59,2/29/1996
+Michelle Hamilton,Female,American,Cashier,Cashier,58,8/9/1967,sthompson@example.com,8196708262,"Unit 8679 Box 2558
+DPO AP 54733",10/2/1954,Temporary,EMP1290,38068.66,8/23/1960
+Mark Norman,Other,British,Customer Service,Support Agent,53,3/12/1972,invalid_email.com,(467)281-8895,"6238 Kane Camp Suite 819
+Savannahton, MO 85389",8/18/1996,Temporary,EMP1291,71283.64,
+Lori Perez,Male,Indian,Cashier,Lead Cashier,56,9/10/1969,davidhodges@example.org,(819)285-4822x3463,"41146 Mark Ports Apt. 969
+North Benjamin, SC 30620",10/16/1976,Freelance,EMP1292,30698.96,
+Dr. Todd Brown,Female,French,Inventory,Stock Clerk,65,11/16/1960,wyatt73@example.org,705-767-8756,"719 Michelle Drives
+Welchport, SD 78583",8/4/1947,Part-time,EMP1293,25150.06,
+Matthew Bush,Other,British,Management,Store Manager,60,11/2/1965,michaelkelley@example.net,(622)358-2568,"Unit 0827 Box 2105
+DPO AA 99093",7/21/1984,Part-time,EMP1294,40967.26,
+Joel Smith,Male,German,Inventory,Warehouse Assistant,38,5/22/1987,zacharymartinez@example.org,726.782.2700,"81148 Kim Village Suite 663
+Markmouth, IA 44081",8/6/1998,Part-time,EMP1295,48239.1,8/23/2007
+Kristopher Mills,Female,Mexican,Customer Service,Customer Service Rep,32,10/13/1993,hlin@example.net,(890)593-3903x48034,"28855 Barbara Junctions
+Torreston, IL 81224",7/29/1999,Freelance,EMP1296,47962.58,2/20/2001
+Tanner Anderson,Male,French,Cashier,Lead Cashier,43,7/20/1982,invalid_email.com,(320)673-4297,"5313 Gill Tunnel Apt. 383
+New Haroldmouth, NY 26010",2/25/1993,Full-time,EMP1297,77148.25,3/21/1996
+Joshua Baker,Other,Indian,Cashier,Cashier,56,11/20/1969,asantos@example.com,001-712-456-6211x991,"13592 Caitlin Field
+Port David, CT 55763",4/1/1973,Part-time,EMP1298,52170.42,10/3/1979
+Rebecca Harrison MD,Other,German,Sales,Senior Salesperson,25,7/10/2000,dennis18@example.org,977.900.3912x601,"6632 Nicholas Ports Apt. 003
+Williamsburgh, VI 39781",1/27/2012,Part-time,EMP1299,52711.47,

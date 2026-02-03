@@ -1,0 +1,10 @@
+{
+  "employee_data_path": "data/inputs/employee_data.csv",
+  "sales_data_path": "data/inputs/sales_data.csv",
+  "log_level": "INFO",
+  "output_reports_dir": "src/reports/output/",
+  "cleaned_employee_data_path": "data/outputs/employee_data_clean.csv",
+  "cleaned_sales_data_path": "data/outputs/sales_data_clean.csv",
+  "log_file": "data/outputs/app.log"
+}
+

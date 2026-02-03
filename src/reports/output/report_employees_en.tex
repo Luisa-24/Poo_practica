@@ -1,0 +1,369 @@
+% ============================================================================
+% LaTeX Template for Data Analysis Reports
+% Employee and Sales Analysis
+% ============================================================================
+
+\documentclass[11pt, a4paper]{article}
+
+% ============================================================================
+% PAQUETS
+% ============================================================================
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{tcolorbox}
+
+% ============================================================================
+% PAGE CONFIGURATION
+% ============================================================================
+\geometry{
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm
+}
+
+% ============================================================================
+% CUSTOM COLORS
+% ============================================================================
+\definecolor{primaryblue}{HTML}{1a5276}
+\definecolor{primaryred}{HTML}{7b241c}
+\definecolor{successgreen}{HTML}{27ae60}
+\definecolor{warningred}{HTML}{e74c3c}
+\definecolor{lightgray}{HTML}{f8f9fa}
+\definecolor{darkgray}{HTML}{343a40}
+
+% ============================================================================
+% TITLE STYLES
+% ============================================================================
+\titleformat{\section}
+    {\Large\bfseries\color{primaryblue}}
+    {\thesection.}{0.5em}{}
+    [\titlerule]
+
+\titleformat{\subsection}
+    {\large\bfseries\color{darkgray}}
+    {\thesubsection}{0.5em}{}
+
+% ============================================================================
+% HEADER AND FOOTER
+% ============================================================================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{gray}Report of Employees}
+\fancyhead[R]{\small\color{gray}2026-02-03 13:46}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% ============================================================================
+% CUSTOM BOXES
+% ============================================================================
+\tcbset{
+    metricbox/.style={
+        colback=lightgray,
+        colframe=primaryblue,
+        boxrule=1pt,
+        arc=3mm,
+        left=5pt,
+        right=5pt,
+        top=5pt,
+        bottom=5pt
+    },
+    alertbox/.style={
+        colback=red!5,
+        colframe=warningred,
+        boxrule=1pt,
+        arc=2mm,
+        left=5pt,
+        right=5pt,
+        top=3pt,
+        bottom=3pt
+    },
+    successbox/.style={
+        colback=green!5,
+        colframe=successgreen,
+        boxrule=1pt,
+        arc=2mm,
+        left=5pt,
+        right=5pt,
+        top=3pt,
+        bottom=3pt
+    }
+}
+
+% ============================================================================
+% HYPERLINKS CONFIGURATION
+% ============================================================================
+\hypersetup{
+    colorlinks=true,
+    linkcolor=primaryblue,
+    urlcolor=primaryblue,
+    citecolor=primaryblue
+}
+
+% ============================================================================
+% DOCUMENT START
+% ============================================================================
+\begin{document}
+
+% ============================================================================
+% COVER PAGE
+% ============================================================================
+\begin{titlepage}
+    \centering
+    \vspace*{3cm}
+    
+    {\Huge\bfseries\color{primaryblue} ANALYSIS REPORT}\\[0.5cm]
+    {\LARGE\bfseries\color{darkgray} EMPLOYEES DATASET}\\[2cm]
+    
+    \rule{\textwidth}{1pt}\\[1cm]
+    
+    {\large Generated: 2026-02-03 13:46}\\[2cm]
+    
+    % ---- SUMMARY ----
+    \begin{tcolorbox}[
+        colback=lightgray,
+        colframe=primaryblue,
+        width=0.8\textwidth,
+        arc=5mm,
+        boxrule=2pt
+    ]
+        \centering
+        \Large\bfseries SUMMARY\\[0.5cm]
+        \normalsize
+        \begin{tabular}{ll}
+            Total records analyzed: & \textbf{300}\\
+            Records after cleaning: & \textbf{300}\\
+            Records with valid data: & \textbf{300}\\
+            Instances created: & \textbf{300}\\
+        \end{tabular}
+    \end{tcolorbox}
+    
+    \vfill
+    
+\end{titlepage}
+
+% ============================================================================
+% SECTION 1: EXPLORATORY ANALYSIS
+% ============================================================================
+\section{Exploratory Data Analysis}
+
+\subsection{General Information of the Dataset}
+
+The original dataset contains \textbf{300} records. After the cleaning process, \textbf{300} records were retained, representing a retention rate of \textbf{100\%}.
+
+
+The data includes personal, contact, and employment information of employees,
+including hire dates, termination dates, department, and salary.
+
+
+\subsection{Missing Values}
+
+
+\begin{table}[H]
+    \centering
+    \caption{Missing Values by Column}
+    \begin{tabular}{lcc}
+        \toprule
+        \textbf{Column} & \textbf{Missing} & \textbf{Percentage}\\
+        \midrule
+        phone & 13 & 4.33\%\\
+        address & 19 & 6.33\%\\
+        termination\_date & 145 & 48.33\%\\
+\bottomrule
+    \end{tabular}
+\end{table}
+
+
+
+
+% ============================================================================
+% SECCIÓN 2: ANÁLISIS ESPECÍFICO
+% ============================================================================
+\section{Gender Consistency Analysis}
+
+
+\subsection{Gender vs Name Validation}
+
+The \texttt{gender-guesser} library was used to validate the consistency between
+the registered gender and the employee's name.
+
+\begin{itemize}
+    \item Genders validated using name inference
+    \item Employees with inconsistent gender: \textbf{0}
+    \item Method: Comparison of registered gender vs inferred from name
+\end{itemize}
+
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\textwidth]{graphs/gender_distribution.png}
+    \caption{Gender Distribution}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{graphs/department_distribution.png}
+    \caption{Department Distribution}
+\end{figure}
+
+
+% ============================================================================
+% SECTION 3: VALIDATIONS
+% ============================================================================
+\section{Date and Consistency Validation}
+
+
+\subsection{Age at Hiring}
+
+\begin{itemize}
+    \item Employees hired as adults: \textbf{83}
+    \item Employees hired as minors: \textbf{217}
+\end{itemize}
+
+\subsection{Termination vs Hiring}
+
+\begin{itemize}
+    \item Employees terminated before hiring: \textbf{1}
+\end{itemize}
+
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{graphs/date_validations.png}
+    \caption{Date Validations}
+\end{figure}
+
+
+% ============================================================================
+% SECTION 4: CLEANING PROCESS
+% ============================================================================
+\section{Applied Cleaning Process}
+\subsection{transformations performed}
+
+\begin{itemize}[leftmargin=2cm]
+
+    \item Email validation and cleaning (standardized format)
+    \item Phone number cleaning (international format, add 10 zeros to invalid numbers)
+    \item Gender inference based on name (gender-guesser)
+    \item Removal of records without employee\_id or name
+    \item Removal of Age column (redundant/inconsistent data)
+    \item Conversión de fechas a formato datetime
+
+\end{itemize}
+
+\subsection{Cleaning Statistics}
+
+\begin{table}[H]
+    \centering
+    \caption{Cleaning Process Summary}
+    \begin{tabular}{lc}
+        \toprule
+        \textbf{Metric} & \textbf{Value}\\
+        \midrule
+        Original records & 300\\
+        Records after cleaning & 300\\
+        Records removed & 0\\
+        Emails processed & 300\\
+        Phones cleaned & 300\\
+        Genders inferred & 300\\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+% ============================================================================
+% SECTION 5: RELATIONS
+% ============================================================================
+\section{Relations Between Datasets}
+
+\subsection{Sales Activity Analysis}
+
+\begin{itemize}
+    \item Employees with associated sales: \textbf{229}
+    \item Employees without associated sales: \textbf{71}
+\end{itemize}
+
+\subsection{Relationship Inconsistencies}
+
+\begin{itemize}
+    \item Sales with invalid Employee ID: \textbf{0}
+\end{itemize}
+
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\textwidth]{graphs/employee_activity.png}
+    \caption{Employee activity}
+\end{figure}
+
+
+% ============================================================================
+% SECTION 6: VALIDATION RESULTS
+% ============================================================================
+\section{Pipeline Validation Results}
+
+\subsection{Applied Validation Rules}
+
+\begin{itemize}[leftmargin=2cm]
+
+    \item \textbf{{termination\_is\_after\_hire}}: Termination date major that hire date
+        \item \textbf{{termination\_is\_after\_birthdate}}: Employee major or iqual 18 years old at     termination
+    \item \textbf{{valid\_email}}: Email with valid format
+    \item \textbf{{valid\_phone}}: Phone with valid format
+
+\end{itemize}
+
+\subsection{Validation Results}
+
+
+\begin{table}[H]
+    \centering
+    \caption{Validation Results by Rule}
+    \begin{tabular}{lcccc}
+        \toprule
+        \textbf{Validation} & \textbf{VValid} & \textbf{Invalid} & \textbf{N/A} &
+        \textbf{\% Success}\\
+        \midrule
+        termination\_is\_after\_h & 154 & 146 & 145 & 51.3\%\\
+        termination\_is\_after\_b & 56 & 244 & 145 & 18.7\%\\
+\bottomrule
+    \end{tabular}
+\end{table}
+
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\textwidth]{graphs/validation_details.png}
+    \caption{Validation Details}
+\end{figure}
+
+
+% ============================================================================
+% SECTION 7: ADDITIONAL METRICS (Sales Only)
+% ============================================================================
+
+
+% ============================================================================
+% END OF DOCUMENT
+% ============================================================================
+\end{document}

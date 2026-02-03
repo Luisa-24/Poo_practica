@@ -1,0 +1,363 @@
+% ============================================================================
+% LaTeX Template for Data Analysis Reports
+% Employee and Sales Analysis
+% ============================================================================
+
+\documentclass[11pt, a4paper]{article}
+
+% ============================================================================
+% PAQUETS
+% ============================================================================
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{tcolorbox}
+
+% ============================================================================
+% PAGE CONFIGURATION
+% ============================================================================
+\geometry{
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm
+}
+
+% ============================================================================
+% CUSTOM COLORS
+% ============================================================================
+\definecolor{primaryblue}{HTML}{1a5276}
+\definecolor{primaryred}{HTML}{7b241c}
+\definecolor{successgreen}{HTML}{27ae60}
+\definecolor{warningred}{HTML}{e74c3c}
+\definecolor{lightgray}{HTML}{f8f9fa}
+\definecolor{darkgray}{HTML}{343a40}
+
+% ============================================================================
+% TITLE STYLES
+% ============================================================================
+\titleformat{\section}
+    {\Large\bfseries\color{primaryred}}
+    {\thesection.}{0.5em}{}
+    [\titlerule]
+
+\titleformat{\subsection}
+    {\large\bfseries\color{darkgray}}
+    {\thesubsection}{0.5em}{}
+
+% ============================================================================
+% HEADER AND FOOTER
+% ============================================================================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{gray}Report of Sales}
+\fancyhead[R]{\small\color{gray}2026-02-03 13:46}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% ============================================================================
+% CUSTOM BOXES
+% ============================================================================
+\tcbset{
+    metricbox/.style={
+        colback=lightgray,
+        colframe=primaryred,
+        boxrule=1pt,
+        arc=3mm,
+        left=5pt,
+        right=5pt,
+        top=5pt,
+        bottom=5pt
+    },
+    alertbox/.style={
+        colback=red!5,
+        colframe=warningred,
+        boxrule=1pt,
+        arc=2mm,
+        left=5pt,
+        right=5pt,
+        top=3pt,
+        bottom=3pt
+    },
+    successbox/.style={
+        colback=green!5,
+        colframe=successgreen,
+        boxrule=1pt,
+        arc=2mm,
+        left=5pt,
+        right=5pt,
+        top=3pt,
+        bottom=3pt
+    }
+}
+
+% ============================================================================
+% HYPERLINKS CONFIGURATION
+% ============================================================================
+\hypersetup{
+    colorlinks=true,
+    linkcolor=primaryred,
+    urlcolor=primaryred,
+    citecolor=primaryred
+}
+
+% ============================================================================
+% DOCUMENT START
+% ============================================================================
+\begin{document}
+
+% ============================================================================
+% COVER PAGE
+% ============================================================================
+\begin{titlepage}
+    \centering
+    \vspace*{3cm}
+    
+    {\Huge\bfseries\color{primaryred} ANALYSIS REPORT}\\[0.5cm]
+    {\LARGE\bfseries\color{darkgray} SALES DATASET}\\[2cm]
+    
+    \rule{\textwidth}{1pt}\\[1cm]
+    
+    {\large Generated: 2026-02-03 13:46}\\[2cm]
+    
+    % ---- SUMMARY ----
+    \begin{tcolorbox}[
+        colback=lightgray,
+        colframe=primaryred,
+        width=0.8\textwidth,
+        arc=5mm,
+        boxrule=2pt
+    ]
+        \centering
+        \Large\bfseries SUMMARY\\[0.5cm]
+        \normalsize
+        \begin{tabular}{ll}
+            Total records analyzed: & \textbf{500}\\
+            Records after cleaning: & \textbf{500}\\
+            Records with valid data: & \textbf{500}\\
+            Instances created: & \textbf{500}\\
+        \end{tabular}
+    \end{tcolorbox}
+    
+    \vfill
+    
+\end{titlepage}
+
+% ============================================================================
+% SECTION 1: EXPLORATORY ANALYSIS
+% ============================================================================
+\section{Exploratory Data Analysis}
+
+\subsection{General Information of the Dataset}
+
+The original dataset contains \textbf{500} records. After the cleaning process, \textbf{500} records were retained, representing a retention rate of \textbf{100\%}.
+
+
+The data includes information on sales transactions, including products,
+quantities, prices, and statuses. The total recorded revenue is
+\textbf{\$144{,}303.49}.
+
+
+\subsection{Missing Values}
+
+No missing values found in the dataset.
+
+
+
+% ============================================================================
+% SECCIÓN 2: ANÁLISIS ESPECÍFICO
+% ============================================================================
+\section{Sales Status Analysis}
+
+
+\subsection{Status Distribution}
+
+\begin{itemize}
+    \item Pending: \textbf{178}
+    \item Completed: \textbf{170}
+    \item Cancelled: \textbf{152}
+\end{itemize}
+
+\subsection{Old Pending Sales}
+
+\begin{itemize}
+    \item Sales in Pending status for more than 5 years: \textbf{170}
+\end{itemize}
+
+{\small\textit{Note: Sales pending for a long time may indicate issues
+in the sales closing process.}}
+
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\textwidth]{graphs/status_distribution.png}
+    \caption{Sales Status}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{graphs/revenue_by_status.png}
+    \caption{Revenue by Status}
+\end{figure}
+
+
+% ============================================================================
+% SECTION 3: VALIDATIONS
+% ============================================================================
+\section{Date and Consistency Validation}
+
+
+\subsection{Future Dates}
+\begin{itemize}
+    \item Sales with future dates: \textbf{13} (2.6\%)
+\end{itemize}
+
+\subsection{Sales vs Hire Date}
+
+\begin{itemize}
+    \item Sales made before employee hire date: \textbf{0}
+\end{itemize}
+
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{graphs/date_issues.png}
+    \caption{Date Issues}
+\end{figure}
+
+
+% ============================================================================
+% SECTION 4: CLEANING PROCESS
+% ============================================================================
+\section{Applied Cleaning Process}
+\subsection{transformations performed}
+
+\begin{itemize}[leftmargin=2cm]
+
+    \item Date validation (sale\_date > hire\_date of the seller)
+    \item Reassignment of sales to valid employees when applicable
+    \item Conversion of date columns to datetime
+    \item Verification of seller\_employee\_id in employee dataset
+    \item Price consistency validation (unit\_price * quantity)
+
+\end{itemize}
+
+\subsection{Cleaning Statistics}
+
+\begin{table}[H]
+    \centering
+    \caption{Cleaning Process Summary}
+    \begin{tabular}{lc}
+        \toprule
+        \textbf{Metric} & \textbf{Value}\\
+        \midrule
+        Original records & 500\\
+        Records after cleaning & 500\\
+        Records removed & 0\\
+  Sales reassigned & 0\\
+        Dates corrected & 0\\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+% ============================================================================
+% SECTION 5: RELATIONS
+% ============================================================================
+\section{Relations Between Datasets}
+
+\subsection{Employee ID Validation}
+
+\begin{itemize}
+    \item Sales with valid Employee ID: \textbf{500}
+    \item Sales with invalid Employee ID: \textbf{0}
+\end{itemize}
+
+\subsection{Referential Integrity}
+
+It was verified that each sale has a valid seller registered in the employee dataset.
+Sales with invalid IDs may indicate records of deleted employees or data entry errors.
+
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\textwidth]{graphs/referential_integrity.png}
+    \caption{Referential Integrity}
+\end{figure}
+
+
+% ============================================================================
+% SECTION 6: VALIDATION RESULTS
+% ============================================================================
+\section{Pipeline Validation Results}
+
+\subsection{Applied Validation Rules}
+
+\begin{itemize}[leftmargin=2cm]
+
+    \item \textbf{{is\_pending}}: Status = 'Pending'
+    \item \textbf{{is\_completed}}: Status = 'Completed'
+    \item \textbf{{is\_cancelled}}: Status = 'Cancelled'
+    \item \textbf{{is\_future\_date}}: Sale date is not in the future
+    \item \textbf{{validate\_prices}}: Prices are positive
+    \item \textbf{{validate\_total\_price}}: total\_price = quantity * unit\_price
+
+\end{itemize}
+
+\subsection{Validation Results}
+
+
+\begin{table}[H]
+    \centering
+    \caption{Validation Results by Rule}
+    \begin{tabular}{lcccc}
+        \toprule
+        \textbf{Validation} & \textbf{VValid} & \textbf{Invalid} & \textbf{N/A} &
+        \textbf{\% Success}\\
+        \midrule
+        is\_pending & 178 & 322 & 0 & 35.6\%\\
+        is\_completed & 170 & 330 & 0 & 34.0\%\\
+        is\_cancelled & 152 & 348 & 0 & 30.4\%\\
+        is\_future\_date & 13 & 487 & 0 & 2.6\%\\
+        validate\_prices & 500 & 0 & 0 & 100.0\%\\
+        validate\_total\_price & 500 & 0 & 0 & 100.0\%\\
+\bottomrule
+    \end{tabular}
+\end{table}
+
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\textwidth]{graphs/validation_details.png}
+    \caption{Validation Details}
+\end{figure}
+
+
+% ============================================================================
+% SECTION 7: ADDITIONAL METRICS (Sales Only)
+% ============================================================================
+
+
+% ============================================================================
+% END OF DOCUMENT
+% ============================================================================
+\end{document}

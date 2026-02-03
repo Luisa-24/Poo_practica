@@ -1,0 +1,257 @@
+% ============================================================================
+% LaTeX Template for Data Analysis Reports
+% Employee and Sales Analysis
+% ============================================================================
+
+\documentclass[11pt, a4paper]{article}
+
+% ============================================================================
+% PAQUETS
+% ============================================================================
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{tcolorbox}
+
+% ============================================================================
+% PAGE CONFIGURATION
+% ============================================================================
+\geometry{
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm
+}
+
+% ============================================================================
+% CUSTOM COLORS
+% ============================================================================
+\definecolor{primaryblue}{HTML}{1a5276}
+\definecolor{primaryred}{HTML}{7b241c}
+\definecolor{successgreen}{HTML}{27ae60}
+\definecolor{warningred}{HTML}{e74c3c}
+\definecolor{lightgray}{HTML}{f8f9fa}
+\definecolor{darkgray}{HTML}{343a40}
+
+% ============================================================================
+% TITLE STYLES
+% ============================================================================
+\titleformat{\section}
+    {\Large\bfseries\color{VAR_PRIMARY_COLOR}}
+    {\thesection.}{0.5em}{}
+    [\titlerule]
+
+\titleformat{\subsection}
+    {\large\bfseries\color{darkgray}}
+    {\thesubsection}{0.5em}{}
+
+% ============================================================================
+% HEADER AND FOOTER
+% ============================================================================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{gray}VAR_REPORT_TITLE}
+\fancyhead[R]{\small\color{gray}VAR_GENERATION_DATE}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% ============================================================================
+% CUSTOM BOXES
+% ============================================================================
+\tcbset{
+    metricbox/.style={
+        colback=lightgray,
+        colframe=VAR_PRIMARY_COLOR,
+        boxrule=1pt,
+        arc=3mm,
+        left=5pt,
+        right=5pt,
+        top=5pt,
+        bottom=5pt
+    },
+    alertbox/.style={
+        colback=red!5,
+        colframe=warningred,
+        boxrule=1pt,
+        arc=2mm,
+        left=5pt,
+        right=5pt,
+        top=3pt,
+        bottom=3pt
+    },
+    successbox/.style={
+        colback=green!5,
+        colframe=successgreen,
+        boxrule=1pt,
+        arc=2mm,
+        left=5pt,
+        right=5pt,
+        top=3pt,
+        bottom=3pt
+    }
+}
+
+% ============================================================================
+% HYPERLINKS CONFIGURATION
+% ============================================================================
+\hypersetup{
+    colorlinks=true,
+    linkcolor=VAR_PRIMARY_COLOR,
+    urlcolor=VAR_PRIMARY_COLOR,
+    citecolor=VAR_PRIMARY_COLOR
+}
+
+% ============================================================================
+% DOCUMENT START
+% ============================================================================
+\begin{document}
+
+% ============================================================================
+% COVER PAGE
+% ============================================================================
+\begin{titlepage}
+    \centering
+    \vspace*{3cm}
+    
+    {\Huge\bfseries\color{VAR_PRIMARY_COLOR} ANALYSIS REPORT}\\[0.5cm]
+    {\LARGE\bfseries\color{darkgray} VAR_DATASET_NAME}\\[2cm]
+    
+    \rule{\textwidth}{1pt}\\[1cm]
+    
+    {\large Generated: VAR_GENERATION_DATE}\\[2cm]
+    
+    % ---- SUMMARY ----
+    \begin{tcolorbox}[
+        colback=lightgray,
+        colframe=VAR_PRIMARY_COLOR,
+        width=0.8\textwidth,
+        arc=5mm,
+        boxrule=2pt
+    ]
+        \centering
+        \Large\bfseries SUMMARY\\[0.5cm]
+        \normalsize
+        \begin{tabular}{ll}
+            Total records analyzed: & \textbf{VAR_TOTAL_ORIGINAL}\\
+            Records after cleaning: & \textbf{VAR_TOTAL_CLEAN}\\
+            Records with valid data: & \textbf{VAR_TOTAL_VALID}\\
+            Instances created: & \textbf{VAR_INSTANCES_CREATED}\\
+        \end{tabular}
+    \end{tcolorbox}
+    
+    \vfill
+    
+\end{titlepage}
+
+% ============================================================================
+% SECTION 1: EXPLORATORY ANALYSIS
+% ============================================================================
+\section{Exploratory Data Analysis}
+
+\subsection{General Information of the Dataset}
+
+The original dataset contains \textbf{VAR_TOTAL_ORIGINAL} records. After the cleaning process, \textbf{VAR_TOTAL_CLEAN} records were retained, representing a retention rate of \textbf{VAR_RETENTION_RATE\%}.
+
+VAR_DATASET_SPECIFIC_INFO
+
+\subsection{Missing Values}
+
+VAR_MISSING_VALUES_CONTENT
+
+VAR_MISSING_VALUES_FIGURE
+
+% ============================================================================
+% SECCIÓN 2: ANÁLISIS ESPECÍFICO
+% ============================================================================
+\section{VAR_SPECIFIC_ANALYSIS_TITLE}
+
+VAR_SPECIFIC_ANALYSIS_CONTENT
+
+VAR_SPECIFIC_ANALYSIS_FIGURES
+
+% ============================================================================
+% SECTION 3: VALIDATIONS
+% ============================================================================
+\section{Date and Consistency Validation}
+
+VAR_DATE_VALIDATION_CONTENT
+
+VAR_DATE_VALIDATION_FIGURES
+
+% ============================================================================
+% SECTION 4: CLEANING PROCESS
+% ============================================================================
+\section{Applied Cleaning Process}
+\subsection{transformations performed}
+
+\begin{itemize}[leftmargin=2cm]
+VAR_CLEANING_OPERATIONS
+\end{itemize}
+
+\subsection{Cleaning Statistics}
+
+\begin{table}[H]
+    \centering
+    \caption{Cleaning Process Summary}
+    \begin{tabular}{lc}
+        \toprule
+        \textbf{Metric} & \textbf{Value}\\
+        \midrule
+        Original records & VAR_TOTAL_ORIGINAL\\
+        Records after cleaning & VAR_TOTAL_CLEAN\\
+        Records removed & VAR_RECORDS_REMOVED\\
+VAR_CLEANING_STATS_ROWS
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+% ============================================================================
+% SECTION 5: RELATIONS
+% ============================================================================
+\section{Relations Between Datasets}
+VAR_RELATIONS_CONTENT
+
+VAR_RELATIONS_FIGURES
+
+% ============================================================================
+% SECTION 6: VALIDATION RESULTS
+% ============================================================================
+\section{Pipeline Validation Results}
+
+\subsection{Applied Validation Rules}
+
+\begin{itemize}[leftmargin=2cm]
+VAR_VALIDATION_RULES
+\end{itemize}
+
+\subsection{Validation Results}
+
+VAR_VALIDATION_RESULTS_TABLE
+
+VAR_VALIDATION_FIGURES
+
+% ============================================================================
+% SECTION 7: ADDITIONAL METRICS (Sales Only)
+% ============================================================================
+VAR_BUSINESS_METRICS_SECTION
+
+% ============================================================================
+% END OF DOCUMENT
+% ============================================================================
+\end{document}

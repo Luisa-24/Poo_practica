@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MyPy cache
+.mypy_cache/
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
